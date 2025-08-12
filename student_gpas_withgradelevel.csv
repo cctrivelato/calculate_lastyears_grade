@@ -1,0 +1,937 @@
+student_id,student_name,grade_level,total_points,course_count,gpa
+2556047,"Perez Alvarez, Alejandro",12,21,14,1.5
+20140093,"Rodriguez, Sebastian",9,57,16,3.56
+20154008,"Duran, Amayrani Alai",11,62,16,3.88
+20154044,"Estrada, Allison",10,66,16,4.12
+20161031,"Martin-Francisco, Alejandro",9,27,16,1.69
+201100014,"Sebastian, Mary-Kate Teodoro",12,16,4,4.0
+201100038,"Ghram, Braydn Allen",12,56,16,3.5
+201100192,"Martinez, Serianna Lynn",12,41,16,2.56
+201100204,"Jubeck, Samantha Rose",12,44,16,2.75
+201100215,"Cannon, Gabriel Allen Thomas",12,32,11,2.91
+201100249,"Rider, Trace Wayne",12,45,15,3.0
+201100300,"McIntosh, Warren Rhett",12,21,14,1.5
+201100329,"Corona-Engle, Karina",12,54,16,3.38
+201100332,"Andres Domingo, Juan Jose",12,35,15,2.33
+201100333,"Jose, Jason Andres",12,22,15,1.47
+201100338,"Banta, Gabriella Sunshine",12,55,14,3.93
+201100344,"Beougher, Kendell Tyreese",12,52,16,3.25
+201100351,"Garcia, Nayely",12,29,12,2.42
+201100352,"Burris, Lowell David",12,16,4,4.0
+201100368,"Interiano, Armando Arturo",12,13,16,0.81
+201100371,"Coffey, Titus Justis Sage",12,30,17,1.76
+201100372,"Eagan, Lacey Leann",11,10,7,1.43
+201100374,"Morrow, Beth Ellen",12,34,13,2.62
+201100376,"Morris, Dreydon James",12,16,4,4.0
+201100382,"Montoya Contreras, Mauricio Jared",12,20,15,1.33
+201100388,"Hernandez, Yasenia",12,14,15,0.93
+201100389,"Hollins, Sophie Alysse",12,27,15,1.8
+201100390,"Mendez, Juan Mateo",12,28,18,1.56
+201100392,"Sandoval, Luis Javier",12,1,16,0.06
+201100393,"Gonzalez Cruz, Brian Ivan",12,47,19,2.47
+201100394,"Horton, William Noble",12,25,15,1.67
+201100396,"Morando, Jose Frost",12,49,14,3.5
+201100400,"Noland, Trey Mitchell",12,58,16,3.62
+201100418,"Morris, Tylicca Raquel",12,33,16,2.06
+201100439,"Pinion, Brody Allen",11,52,16,3.25
+201100445,"Nuss, Gracie Marie",12,46,14,3.29
+201100453,"Stanley, Darrius",12,42,16,2.62
+201100476,"Ramirez Sebastian, Javier",12,2,9,0.22
+201100477,"Hale, Lakyn Madycen Taylor",12,43,12,3.58
+201100488,"Harader, Samantha Lynn",12,49,13,3.77
+201100510,"Gruebel, Killian Cain Mitchell",11,16,15,1.07
+201100512,"Watson Tolbert, Kembran Preston",12,60,14,4.29
+201100517,"Zapata, Crystal Joselyn",12,50,14,3.57
+201100522,"Lile, Cassandra Marie",12,24,17,1.41
+201100527,"Johnson, Lanna Ann",12,53,14,3.79
+201100534,"Creed, Shambrie Lynn",11,39,16,2.44
+201100552,"Vasquez Lopez, Natalie Areli",12,56,15,3.73
+201100580,"McKown, Logan Matthew",11,39,16,2.44
+201100581,"Diaz-Romero, Angelina",11,17,12,1.42
+201100611,"Dunn, Taylen Renee",11,50,16,3.12
+201100652,"Walker-Leverenz, Hayden Dean",11,28,16,1.75
+201100659,"Schwyhart, Chloe Elizabeth",11,60,16,3.75
+201100661,"McGuire, Baylee Jean",11,51,16,3.19
+201100662,"Larson, Landen Everett",12,52,15,3.47
+201100670,"Shook, Keegan",12,55,16,3.44
+201100723,"Billings, Otis David",12,31,12,2.58
+201100725,"Billings, Talon Robert",12,32,14,2.29
+201100726,"Bittinger, Hagen Nicholas",12,42,16,2.62
+201100729,"Brown, Ashton Matthew",12,39,13,3.0
+201100731,"Daily, Talen Madison",12,52,16,3.25
+201100733,"Green, Kaell",12,29,16,1.81
+201100734,"Jenkins, Angel Marie",12,38,14,2.71
+201100737,"Lower, Alaina Rose",12,17,15,1.13
+201100740,"Pinion, Melissa Anne",12,51,13,3.92
+201100745,"Young, Robert Creed",12,26,16,1.62
+201100746,"Layton, Cameron Alexis",12,54,15,3.6
+201100747,"Felix Juan, Yesenia Isabel",12,31,18,1.72
+201100748,"Goff, MyKaylee Marie",12,39,14,2.79
+201100749,"Hawley, Nathanial Ray",12,49,20,2.45
+201100750,"Kingsbury, Rylan Eugene",12,32,14,2.29
+201100751,"McCaslin, Kaiden Louis",12,9,5,1.8
+201100752,"Woods, Sophie Michelle",12,61,15,4.07
+201100756,"Thompson, Miley Dawn",12,55,14,3.93
+201100757,"Trujillo Vega, Marely",12,57,15,3.8
+201100759,"Colton, Shylar Lee",12,32,15,2.13
+201100780,"Pierce, Jordey Ross",12,53,14,3.79
+201100802,"Delgado, Yeraldine",12,57,15,3.8
+201100804,"Checotah, Derion Ziyaire",12,31,11,2.82
+201100805,"Stewart, Maddox Levi",12,11,16,0.69
+201100815,"Zepeda, Saira Limary",12,34,15,2.27
+201100822,"Gill, Luke Mitchell",11,50,16,3.12
+201100823,"Suter, James Merle",11,25,17,1.47
+201100832,"Hartman, Raiden Eugine",11,16,4,4.0
+201100840,"Murphy, Tristan Cobain",12,30,10,3.0
+201100841,"McLeod, Milo Evan",12,60,16,3.75
+201100842,"Lynn, Aubrie Danielle",12,56,16,3.5
+201100845,"Krueger, Ariel Rose",12,44,15,2.93
+201100846,"Helms, Devin Russell",12,28,16,1.75
+201100848,"Ambriz-Rodriguez, Edgar",12,50,16,3.12
+201100850,"Whyde, Jackson Carl",12,11,16,0.69
+201100851,"Cassaw, Ethan Michael",12,29,16,1.81
+201100856,"Domingo, Micaela Isabel",12,51,16,3.19
+201100858,"Jose Sebastian, Hector Ruben",11,1,7,0.14
+201100863,"Focke, Autumn Rayin",12,40,17,2.35
+201100875,"Monroy-Roblero, Ashley",12,45,15,3.0
+201100883,"Retana, Elena Rose",12,57,15,3.8
+201100884,"Calvo, Crystal",12,41,13,3.15
+201100885,"Bernd, Karsyn Loraine",11,62,16,3.88
+201100888,"Sebastian, Rendy",12,51,16,3.19
+201100891,"Jackson, Bailey Nicole",11,69,16,4.31
+201100895,"Brown, Avery Franklynn",11,33,17,1.94
+201100897,"Cabrera, Anamaryel",11,64,16,4.0
+201100901,"Elwell, Candall Marie",11,18,11,1.64
+201100902,"Enriquez, Alejandra",12,22,13,1.69
+201100904,"Evans, Khalyiah Shea",11,47,16,2.94
+201100911,"Garcia, Dariel",11,34,16,2.12
+201100914,"Hushaw, Stetson Lynn",11,56,16,3.5
+201100917,"Lawler, Xavier DeShawn",11,34,16,2.12
+201100919,"Lopez Leon, Edwin Leonardo",12,36,16,2.25
+201100920,"Lopez Leon, Yaritza Isela",11,49,16,3.06
+201100922,"Martinez, Jayson Stiven",11,27,16,1.69
+201100925,"Millan, Adan Arturo",11,27,17,1.59
+201100927,"Mundy, Laken Laree",11,28,14,2.0
+201100928,"Ortega, Wilson Elmer",12,48,18,2.67
+201100929,"Perez Rodriguez, Maria Janette",11,40,16,2.5
+201100934,"Rueda, Daniel Alexander",11,57,15,3.8
+201100935,"Sanchez Benavente, Pablo Adolfo",11,18,15,1.2
+201100937,"Taylor, Paisley Nicole",11,35,16,2.19
+201100938,"Sandoval, Melany Jasmin",11,25,16,1.56
+201100939,"Marsh, Kamree Nikole",11,21,14,1.5
+201100943,"Miller, David Joe",12,42,15,2.8
+201100944,"Solis, Isaiah Valentin",11,54,16,3.38
+201100945,"Graham-Waite, Shane Edward",11,37,16,2.31
+201100946,"Waugh, Piper Marie",12,38,14,2.71
+201100951,"Interiano, Xavier Arturo",11,45,16,2.81
+201100957,"Varela, Rafael Adrian",10,60,16,3.75
+201100960,"Barrios Herrera, Sheyla Paulina",12,31,17,1.82
+201100968,"Wyckoff, Shay Marie",12,48,15,3.2
+201100971,"Coury, Lauren Bianca",12,63,16,3.94
+201100972,"Stoner, Brody Paul",12,52,16,3.25
+201100976,"Weakley, Daxton James",12,55,14,3.93
+201100977,"Weakley, Abrey Faye",12,52,13,4.0
+201100978,"Cassiday-Minnie, Paige Phynix",12,67,16,4.19
+201100979,"Scheurich, Elizabeth Renee",12,64,16,4.0
+201100983,"Hasty, Vincent Laurent",10,16,4,4.0
+201100989,"Meinen, Ragen Lynne",11,64,16,4.0
+201101006,"Sheik, Harley Grace",10,42,16,2.62
+201101034,"Delgado-Castellanos, Brandon Aroldo",10,45,16,2.81
+201101060,"Collins, Heavenly Angel",9,0,4,0.0
+201101090,"Buell-Thaxton, Kyler Embry",10,54,16,3.38
+201101092,"Adams, Rylee Ann",11,58,16,3.62
+201101096,"Hurst, Joseph Xavier Douglas",10,31,14,2.21
+201101097,"Meile, Alizabella Ann",11,67,16,4.19
+201101104,"Swanson, Jeslyn Jewel",10,60,16,3.75
+201101127,"Scott, Baylee Mae",12,19,8,2.38
+201101128,"James, Gabrielle Michelle",10,61,16,3.81
+201101129,"Cazares, Damian",9,14,4,3.5
+201101135,"Coleman, Izais G'Aron",11,32,16,2.0
+201101148,"Lopez-Sanchez, Analee",10,61,16,3.81
+201101152,"Cab-Fajardo, Giancarlo",11,54,16,3.38
+201101153,"Alvarenga, Josiah Alan",10,25,16,1.56
+201101156,"Soule, Cruz David",10,61,16,3.81
+201101158,"Moore, Davyn Jon",9,19,8,2.38
+201101167,"Brooks, Tyler James Edward",10,48,16,3.0
+201101224,"White, Skyler Dean",11,23,13,1.77
+201101225,"Swopes, EmmaLee K",11,60,16,3.75
+201101227,"Graham, Brecken Loehr",12,44,16,2.75
+201101228,"Munson, Nate Colin",12,60,15,4.0
+201101229,"Abbey, Lily Rose",12,48,12,4.0
+201101230,"Milam, Wyatt James",12,50,16,3.12
+201101231,"Aguinaga, Jayden Michael",12,34,11,3.09
+201101232,"Massey, Lynlee Nicole",12,55,14,3.93
+201101235,"Bedolla, Andi",12,20,5,4.0
+201101241,"Clawson, Piper Rae",12,42,14,3.0
+201101244,"Schindler, Tayden Amanda",12,34,16,2.12
+201101246,"Schandorf, Hannah Jane",12,47,13,3.62
+201101247,"Sampson, Haylea Ann",12,54,13,4.15
+201101248,"Palmer, Karson Vaughn",12,62,16,3.88
+201101249,"Sebastian, Monica Pedro",12,63,16,3.94
+201101252,"Squires, Aidan James",12,13,10,1.3
+201101253,"Baker, Zoey Renee",12,49,15,3.27
+201101257,"Gonzalez Salcedo, David",12,48,16,3.0
+201101258,"Gootee, Swea Marie",12,52,16,3.25
+201101259,"Herrera, Genevieve Alexa",12,58,15,3.87
+201101261,"Strecker, Ophelia Clementine",12,62,16,3.88
+201101262,"Ramirez, Simon Aadan",12,38,17,2.24
+201101269,"Banta, Isabella Rose",11,19,17,1.12
+201101285,"Behrens, Georgia Murray",11,51,16,3.19
+201101286,"Brumley, Brody Jace",11,63,16,3.94
+201101288,"Coursey, Lauryn Elisabeth",11,61,16,3.81
+201101289,"Domingo-Matias, Gabriella Andres",11,50,16,3.12
+201101292,"Herbert, Alaysia Janelle",11,44,15,2.93
+201101294,"Hess, Jaxston Wesley",11,55,16,3.44
+201101295,"Kendrick, Airianna Nichole",11,41,16,2.56
+201101296,"King, Brailee Marie",11,39,16,2.44
+201101298,"Roberts, Kayden Jackson Wayne",11,2,1,2.0
+201101299,"Torrez, Kruz John",11,40,16,2.5
+201101300,"Van Wey, LeAnn Amber",11,49,16,3.06
+201101301,"Allen, Emmerson Elayne",12,59,16,3.69
+201101302,"Barton, Traeh Jacob",12,14,16,0.88
+201101303,"Castro, Henry",12,48,16,3.0
+201101307,"Flores Juan, Marlon Alexis",12,30,17,1.76
+201101308,"Hilario, Jarrett Scott",12,49,16,3.06
+201101319,"Escalante, Marely",12,43,15,2.87
+201101323,"Chaparro, Braiden Joseph",12,35,17,2.06
+201101326,"Estes, Zane Allen Dale",11,44,15,2.93
+201101327,"Sullivan, Matthew Tyler",11,28,20,1.4
+201101328,"Agustin-Mejia, Gadi Adriel",11,55,16,3.44
+201101334,"Schenk, Carson Lee",11,2,18,0.11
+201101335,"Reyes, Adrian Francis",11,2,2,1.0
+201101336,"Hayes, Izzy Joella",11,68,16,4.25
+201101337,"Wilson, Avery Mae",11,54,15,3.6
+201101338,"Berg, Kolby Lee",11,29,16,1.81
+201101345,"Andres Marcos, Mateo Pascual",11,52,16,3.25
+201101346,"Blatchford, Tayten Lee",11,25,14,1.79
+201101347,"Brumley Graham, Khloie BreeAnn",10,1,8,0.12
+201101348,"Castillo, Santiago Adan",11,49,16,3.06
+201101349,"Curtis, Braylinn Elizabeth",11,54,16,3.38
+201101356,"Lopez-Hernandez, Anthony",11,52,16,3.25
+201101357,"Webb, Harper Shea",11,56,14,4.0
+201101364,"Tempelaar, Hannah Shyann",10,38,16,2.38
+201101369,"Moore, Anthony Maliki",12,39,14,2.79
+201101376,"DeLeon Oliveros, Kristofer Josue",11,25,19,1.32
+201101377,"Bahruth, Kimberly Ashlyn",11,47,16,2.94
+201101381,"Lockwood, Liam Michael",11,37,17,2.18
+201101382,"Millan, Hever Yosiel",11,29,16,1.81
+201101383,"Nieto, Michael",11,20,16,1.25
+201101385,"Oliver, Owen Isaac",11,18,17,1.06
+201101392,"Valdovinos, Andres Leonardo",11,27,8,3.38
+201101395,"Angei, Wellsin Onsin",11,46,16,2.88
+201101400,"Broce, Ashlee Kaitlynn",12,49,12,4.08
+201101401,"Zepeda Velazquez, Jayleen",11,63,16,3.94
+201101402,"Maus, Andrew Preston",12,30,10,3.0
+201101403,"Daniels, Riley Dalila",11,64,16,4.0
+201101405,"Hernandez Lopez, Diego Edilser",11,47,16,2.94
+201101408,"Paton, Wyatt James",11,70,16,4.38
+201101409,"Navarrette, Jair Mitchell",11,51,16,3.19
+201101417,"Tavarez, Manuel Ryan",11,42,16,2.62
+201101420,"Ruiz, Javier Alexis",11,37,16,2.31
+201101423,"Gutierrez-Agustin, Eylin Sarai",11,47,16,2.94
+201101426,"Williams, Kason James",11,37,16,2.31
+201101427,"Hockenbury, Reaghan Shae",11,28,10,2.8
+201101428,"Esquivel-Gutierrez, Eduin",11,47,16,2.94
+201101429,"Giles-Mendoza, Ana Gabriela",11,38,16,2.38
+201101435,"Dykes, Journey Leigh",11,72,16,4.5
+201101436,"Huffman, Hayley Anne",11,54,16,3.38
+201101437,"Kessinger, Ruby Alice",11,43,17,2.53
+201101442,"Brumley, Jaimen Lee",11,43,15,2.87
+201101445,"Dorman, Jonathan Taylor",11,24,16,1.5
+201101447,"Barrios Herrera, Jordany Yenier",11,52,16,3.25
+201101449,"Czaplinski, Cruz David",11,67,16,4.19
+201101450,"Trainer, Brodie Evan",11,0,8,0.0
+201101453,"Martin, Tripp Xander",11,2,2,1.0
+201101455,"Pedro-Sebastian, Miguel",10,39,16,2.44
+201101470,"Figueroa-Munoz, Genesis",11,48,16,3.0
+201101474,"Anders, Taylor Gayle-Grace",10,16,11,1.45
+201101480,"Parker, Riordan Gary",10,38,16,2.38
+201101482,"LeClair, Zephyr Nicole",10,59,16,3.69
+201101484,"Nixon, Ayleigh Marie",10,56,14,4.0
+201101485,"Juarez, Moises Ivan",11,60,16,3.75
+201101488,"Andres Montejo, Yasmin Amarelis",11,33,15,2.2
+201101495,"Canas, Andre Ermando",9,64,16,4.0
+201101497,"Cecil, Sydney Lynn",11,58,15,3.87
+201101498,"De La Cruz Us, Juan David",11,51,16,3.19
+201101499,"Dorantes Molina, Ashley",10,64,16,4.0
+201101500,"Drumm, Ethan William",10,36,16,2.25
+201101503,"Garcia, Naydelin Arlette",10,72,17,4.24
+201101505,"Ibarra Trujillo, Tony",10,27,16,1.69
+201101509,"Ortega, Darvin Leonel",10,63,16,3.94
+201101510,"Gage, Jada Shiann",10,56,16,3.5
+201101511,"Lopez Leon, Meyli Azucena",10,47,16,2.94
+201101515,"Beeson, Grant DontaRay",10,48,18,2.67
+201101516,"McCaslin, Lillian Katherine",10,42,16,2.62
+201101517,"Millan, Addison Marie",10,17,16,1.06
+201101519,"Ramirez, Bella Angelina",10,18,16,1.12
+201101525,"Smith, Jeffery Lee",10,44,16,2.75
+201101528,"Sobba, Eva Renee",9,60,16,3.75
+201101535,"Hasty, Brayden James-Michael",10,56,16,3.5
+201101541,"Hollins, Clarenza Amya",10,50,16,3.12
+201101542,"Vardy, Colby Dean",11,59,16,3.69
+201101543,"Retana, Cruz Alberto",10,42,16,2.62
+201101545,"White, Arson Damian",10,53,16,3.31
+201101625,"Townsend, Natalie Leeann",10,34,16,2.12
+201101627,"Tymony, Traetyn Deon",10,28,16,1.75
+201101628,"Villagomez, Jose Antonio",10,46,16,2.88
+201101629,"Wilbourn, Abigail Danielle",11,20,9,2.22
+201101631,"Williamson, Skielee Marie Dawn",10,61,16,3.81
+201101635,"Ramirez, Christopher Matias",10,70,16,4.38
+201101636,"Colston, Matthew Wade",9,6,8,0.75
+201101643,"Rocha, Martin Pablo",11,40,16,2.5
+201101645,"Kilts, Connor Neil",11,12,14,0.86
+201101650,"Lile, Taygun Ace Lee",9,33,19,1.74
+201101652,"Beougher, Tyren Micah",10,21,17,1.24
+201101654,"Sanchez, Yaretzi Yazlyn",10,62,16,3.88
+201101655,"Martin, Exavier Daxen",10,39,16,2.44
+201101660,"McPherson, Paige LeeAnn",11,55,16,3.44
+201101664,"Linder, Madison Grace",11,64,16,4.0
+201101666,"Jimenez, Mary Guadalupe",10,22,17,1.29
+201101725,"Jowers, Devin James",9,47,16,2.94
+201101825,"Killen, Daylen Scott",10,41,16,2.56
+201101983,"Lile, Keith Logan Ray",9,26,20,1.3
+201101993,"Gomez Jose, Randy Bengamin",11,22,15,1.47
+201101996,"Maldonado, Desiree",10,8,15,0.53
+201102001,"Young, Kadi Marie",10,27,15,1.8
+201102010,"Valverde, Ariana Chylin",12,9,16,0.56
+201102017,"Rodriguez Elias, Genoveva",11,42,16,2.62
+201102020,"Meek, Zathan Asher",11,57,16,3.56
+201102031,"Leos, Arturo",10,43,16,2.69
+201102037,"Nissen, Alajahna Justice",11,51,16,3.19
+201102049,"Billiter, Dawson Michael",10,48,16,3.0
+201102050,"Modou, Repison T. Rand",11,28,10,2.8
+201102053,"Alcon Mejia, Alex",12,27,16,1.69
+201102064,"Lopez-Garcia, Angelica",11,35,18,1.94
+201102074,"Borges-Lopez, Uzziel William",11,21,17,1.24
+201102118,"Velasquez Pastor, Melinda",11,64,16,4.0
+201102119,"Jones, Jagger Michael",10,46,16,2.88
+201102125,"Howard, Ayden Jesse Lee",10,1,12,0.08
+201102127,"Vickers, Jaxon Reece",10,67,16,4.19
+201102128,"Tomas-Diego, Isabela",10,41,16,2.56
+201102132,"Ward, Samuel Tipton",10,64,16,4.0
+201102134,"Wright, Liam Harroll",10,3,15,0.2
+201102136,"Lopez-Garcia, Jesus",11,55,16,3.44
+201102147,"Valencia, Miley",10,18,16,1.12
+201102150,"Velasquez-Pastor, Domingo",10,20,16,1.25
+201102154,"Tercero Lopez, Jose Manuel",10,34,16,2.12
+201102155,"Monroy-Roblero, Adriana",10,47,16,2.94
+201102156,"Prosser, Ralee Anne",10,47,16,2.94
+201102168,"Sebastian-Juan, Mauricio",10,30,16,1.88
+201102187,"Lokopwe, Redner Helson",9,34,17,2.0
+201102188,"Delgado, Yazid",9,53,17,3.12
+201102241,"Ripley, Aiden James",11,49,16,3.06
+201102262,"Tovar, Yazmin",12,42,14,3.0
+201102284,"Ripley, Logan",10,51,16,3.19
+201102311,"Talbert, Haylee Roze",9,62,16,3.88
+201102352,"Davis, Brooklyn Ruby",9,8,2,4.0
+201102365,"Casner, Kinsey Shaye",9,62,16,3.88
+201102396,"Calvillo Flores, Tania",10,29,16,1.81
+201102417,"Casner, Blake Ryan",12,24,17,1.41
+201102425,"Palmer, Davie Lynn",9,43,16,2.69
+201102427,"Froman, Joslynne Faye",10,44,16,2.75
+201102436,"Hernandez de la Cruz, Luis Bernardo",10,60,16,3.75
+201102453,"Hernandez Ponce, Ronaldo Felix",10,45,16,2.81
+201102454,"Hernandez Ponce, Hector Martin",9,58,16,3.62
+201275114,"Farris, Brook Lynn",11,56,14,4.0
+201278104,"Duarte-Gallegos, Alicia",10,58,16,3.62
+201278105,"Giles, Maddon David",9,60,16,3.75
+201278106,"Harbert, Ariel Marie",10,74,20,3.7
+201278115,"McCorgary, Haylee Michelle",11,59,14,4.21
+201278116,"McCorgary, Hayden Morgan",9,58,15,3.87
+201278120,"Mendez, Cain Emanuel",9,55,16,3.44
+201278133,"Andres Sebastian, Fernando Escandon",11,31,16,1.94
+201278154,"Murphree, Reagan Nicole",11,56,16,3.5
+201358001,"Colquhoun, Aspen Grace",11,63,16,3.94
+201358003,"Quint, Kody Marshall",9,56,14,4.0
+201366007,"Ambriz, Carlos Uriel",12,28,11,2.55
+201366009,"Sanderholm, Lilliann Marie",12,64,16,4.0
+201366013,"Crull, Bailey Jean",12,56,21,2.67
+201366014,"Crull, Chelsea Marie",12,35,13,2.69
+201366015,"Burr, Landon Cole",12,49,15,3.27
+201366016,"Wirth, Allison Kaye",12,20,13,1.54
+201366021,"Uden, Jenna Layne",11,64,16,4.0
+201366101,"Jackson, D'Angelo Thomas",10,40,17,2.35
+201370100,"Beaty, Lein David",9,20,16,1.25
+201470002,"Moore, Harper Mathew",9,64,16,4.0
+201470004,"Moore, Mallory Dawn",10,74,19,3.89
+201470006,"Adams, Emma Nicole",9,51,16,3.19
+201470007,"Wells, Cadence Jade",10,57,16,3.56
+201470011,"Cab Fajardo, Alexis Amaury",10,58,16,3.62
+201470012,"Musgrove, Alana Elise",9,46,16,2.88
+201470015,"Squires, Katelynn Elizabeth",9,59,16,3.69
+201470017,"Young, Jagger Warrior",10,30,15,2.0
+201470018,"Kirk, Clark Alexander",9,64,16,4.0
+201470019,"Ruiz, Alexzander Santino",9,12,4,3.0
+201470020,"Jagels, Rylan Kole",9,38,16,2.38
+201540001,"Alvarado Andres, Francisco Alexander",11,28,16,1.75
+201540004,"Hilario, Braxtyn Timothy",11,51,16,3.19
+201540007,"Roberson, Harloh Shay",11,59,14,4.21
+201540012,"Mendoza, Kinley Alaina",12,53,13,4.08
+201540016,"Henderson-Johnson, Saniyah Renee",12,19,10,1.9
+201540017,"Henderson, Tariyah Joy",11,59,16,3.69
+201540022,"Retana, Isabella Joan",10,65,16,4.06
+201540024,"Snow, Quinton Alan",10,47,16,2.94
+201540025,"Tennant, Riley Jo",10,53,16,3.31
+201540029,"Cutright, Jayden Adaire",10,68,16,4.25
+201540030,"Roberson, Hagan Douglas",9,47,16,2.94
+201540031,"Mosier, Zackry Golden",10,58,16,3.62
+201540033,"King, Rylan Cody",10,61,16,3.81
+201540035,"Heilig, Tatum Marie",10,51,16,3.19
+201540037,"Cales, Chloe Jeannette",10,69,16,4.31
+201540038,"Porter, Tatyn Adlea",10,63,16,3.94
+201540039,"McAnulty, Ava Rae",10,61,16,3.81
+201540041,"Sumpter, Maci Kate",10,64,16,4.0
+201540042,"Bedolla, Landon J",10,46,16,2.88
+201540044,"Cook, Emma Rose",10,38,16,2.38
+201540045,"Vongkham, Welly Atit",10,54,16,3.38
+201540046,"Martinez-Chavez, Angel Elias",10,37,16,2.31
+201540047,"Russell, Hayden Leeann",10,36,12,3.0
+201540049,"McKimson, Rorye Michelle",10,55,16,3.44
+201540054,"Hilario, Kynleigh Wren",10,60,16,3.75
+201542004,"Ardon-Barrios, Alvaro Alberto",10,27,16,1.69
+201542005,"Aviles Perez, Abraham Ismael",10,3,12,0.25
+201542006,"Dieguez, Arianna Monroe",10,33,16,2.06
+201542007,"Dye, Brian Joseph",10,59,16,3.69
+201542011,"Floyd, Adalyn Janae",10,43,16,2.69
+201542012,"Giger, Ava Allyson Rose",10,57,16,3.56
+201542013,"Gregory, Jaedyn Landon Mitchell",11,26,16,1.62
+201542014,"Hibbs, Audrina",10,25,16,1.56
+201542015,"Isakson, Brayden Lane",10,19,6,3.17
+201542017,"Kent, Trake Warren",10,52,16,3.25
+201542018,"McDonald, Devin Blake",10,51,16,3.19
+201542019,"Miller, Trevin Matthew",10,34,16,2.12
+201542020,"Morando, Jazmin Julie",10,20,15,1.33
+201542021,"Munoz, Kayley",11,51,15,3.4
+201542022,"Parr, Noah Benjamin",10,61,16,3.81
+201542025,"Ryan, Kylinn Paige",10,37,16,2.31
+201542028,"Smithwick, Shae Ann",11,59,16,3.69
+201542029,"Steiner, Kindell David",10,25,17,1.47
+201542032,"Wyckoff, Esa Christine",10,69,16,4.31
+201542041,"Green, Kyler Michael",9,28,18,1.56
+201542044,"Becker, Nathan Allen",11,9,16,0.56
+201542045,"Twilleger, Alyna Latay",11,49,17,2.88
+201542046,"Jamison, Kloie Rayne Michaelle",10,21,14,1.5
+201542049,"Martin Ramirez, Juan",10,1,15,0.07
+201542050,"Medina, Eric",10,46,16,2.88
+201542051,"Otto, Arvin Isat",10,30,15,2.0
+201542052,"Phillip, Madphill",10,22,15,1.47
+201542053,"Nissen, Hunter Keil",10,26,17,1.53
+201542056,"Brown, Alina Faye",10,30,16,1.88
+201542058,"Reyes, Jose Christopher",12,21,10,2.1
+201542066,"Carson, Briana Jade",10,48,16,3.0
+201542073,"Francisco Andres, Jenifer",11,47,16,2.94
+201542076,"Kirtley, Stephen Bryan",9,58,16,3.62
+201543001,"Schwartz, Blaze Ryan Abbott",10,40,16,2.5
+201543026,"Pool, Kadyn Michelle",12,54,14,3.86
+201543027,"Pool, Kyiah Rae",12,59,15,3.93
+201543037,"May, Cadence Marie Alyce",10,56,16,3.5
+201543048,"Kidd, Brianna Juelynn",10,32,17,1.88
+201543049,"Lamb, Isaiah",11,51,16,3.19
+201543050,"Hutchinson, Jacob Kane",10,30,17,1.76
+201543057,"Maris, Chase Rams",12,48,14,3.43
+201543058,"Maris, Ceejay Rider",12,59,16,3.69
+201543059,"Zapata, Abilene",10,52,16,3.25
+201543061,"Ramirez, Isaac Nathan",11,43,16,2.69
+201548009,"Edgar, Zekiel Oliver",12,4,18,0.22
+201548012,"Niehoff, Shane Daniel",11,46,16,2.88
+201548013,"Seaton, Lillian Nicole",11,68,16,4.25
+201548014,"Porterfield, Joshua Keith",11,39,16,2.44
+201548016,"Castillo, Aaliyah Marie",10,49,16,3.06
+201548018,"Coulston, Grace Jean",10,67,16,4.19
+201548019,"Kilts, Scarlett Dawn",10,68,16,4.25
+201548020,"Mills, Lux Analise",10,35,16,2.19
+201548022,"Romero-Marroquin, Yeslina Betzayda",10,56,16,3.5
+201548024,"Farmer, Tuesday Nichole",10,38,16,2.38
+201548025,"Lopez-Lopez, Bradley L",10,42,16,2.62
+201548027,"Porterfield, Blake Allen",10,5,16,0.31
+201548029,"Cohrs, Dante Faelan",10,41,16,2.56
+201548030,"Hills, Morgan LeAnn",10,48,16,3.0
+201548032,"Ruyle, Brake Joseph",9,50,16,3.12
+201548034,"Orvis, Dezi Blair",10,54,16,3.38
+201548035,"Sampson, Bentlea Renee",10,61,16,3.81
+201548037,"Bowker, Abigail Jane",10,64,16,4.0
+201548038,"Fleig, Natalie Rose",10,70,16,4.38
+201548042,"Hernandez-Lopez, Germmy Aldahir",10,45,16,2.81
+201548046,"Engelking, Anden Lee Gene",10,57,16,3.56
+201548047,"Jameson, Hatcher Thomas",10,7,12,0.58
+201548052,"Garcia, Magaly",10,21,16,1.31
+201548053,"Linder, Aiden Scott",9,49,16,3.06
+201548061,"Richard, Michael Jacob",9,14,8,1.75
+201548064,"Barnes, Kennedy Suzanne",12,48,12,4.0
+201548067,"Kirtley, Olivia Faith",11,32,19,1.68
+201558002,"Wells, Zoe Rene'",11,62,16,3.88
+201558010,"Headrick, Ava Agnes",11,65,16,4.06
+201558013,"Williams, Jolie Breckett",11,58,15,3.87
+201558014,"King, Lily-Ann Lucille",9,24,8,3.0
+201558016,"Lund, McCoy Garrett",9,62,16,3.88
+201558018,"Morgan, Elliot Patrick",9,62,16,3.88
+201558019,"Lowry, Amy Leann",12,48,16,3.0
+201566008,"Bruce, Stratton Dean",11,45,16,2.81
+201566009,"Garcia, Raul Ayala",11,36,18,2.0
+201566011,"Sparks, Tucker Lee",11,50,16,3.12
+201566013,"Burke, Zane Alan",11,31,19,1.63
+201566019,"Rowe, Briley Dice",11,60,16,3.75
+201566022,"Charley, Tamira Taquoia",12,55,14,3.93
+201566028,"Mills, Marissa Glenae",12,52,14,3.71
+201570001,"White, Gracen Elijah Jude",9,21,15,1.4
+201570004,"Walker-Leverenz, Timothy Wade",9,40,15,2.67
+201570005,"Harrod, Pierce Davis",9,36,16,2.25
+201570006,"Torres, Isabel",9,55,16,3.44
+201570007,"Cohrs, Axle Kadan",9,48,16,3.0
+201570008,"Wilcher, Ember Marie",9,50,16,3.12
+201570011,"Castro-Veloz, Victor Emiliano",9,42,16,2.62
+201570012,"Billiter, Lillyanna Rose",9,52,16,3.25
+201570014,"Sumpter, Cooper Robert",9,58,16,3.62
+201570015,"Banta, Jaxton Eli",9,23,20,1.15
+201570016,"Sanchez, Yadeli Carmen",9,57,16,3.56
+201570017,"Pacheco, Joey Percyval",9,30,18,1.67
+201570019,"Ryan, Tyler Ray",9,33,18,1.83
+201570020,"Gatewood, Areiana Grace",9,44,16,2.75
+201570021,"Barron, Melany",9,64,16,4.0
+201570023,"Galdamez Barron, Carmen Cassendra",9,63,16,3.94
+201570025,"Meeks, Landree Jo",9,39,15,2.6
+201570028,"Cribbs, Tyler Korban",9,1,10,0.1
+201571004,"Cain, David Shawn",9,52,16,3.25
+201571005,"Daniels, Harley Johnathan James",9,40,17,2.35
+201571010,"Fultz, Grant William",9,60,16,3.75
+201571011,"Horton, Halona Gracelynn",10,51,16,3.19
+201571012,"McDonald, Tyler Shawn",10,77,18,4.28
+201571015,"Sheehy, Braxton William",9,51,16,3.19
+201571018,"Hess, Madison Ann",9,64,16,4.0
+201571022,"Perez Rodriguez, Jeffrey Levi",9,38,16,2.38
+201571024,"Sebastian, Lexi Iliana Andres",9,58,16,3.62
+201571025,"Tempelaar, Melakai Daniel",9,37,16,2.31
+201571029,"Daniels, David Dwayne",9,21,16,1.31
+201571032,"Watson, Melannie Joleane Della-Rose",9,61,16,3.81
+201571033,"Zetino-Lorenzo, Jose",10,68,16,4.25
+201571034,"Anguiano-Jose, Arelii",9,51,16,3.19
+201571035,"Brown, Jimi",10,16,9,1.78
+201571038,"Jimenez, Esmeralda Rosy",9,35,16,2.19
+201571039,"Munoz Andres, Vianey Michelle",9,60,16,3.75
+201571041,"Smith, Robert Aaron",9,14,5,2.8
+201571042,"Watson Jackson Sharp, Tyanna Lavall",9,48,18,2.67
+201571043,"Zetino-Lorenzo, Marta",9,59,16,3.69
+201571047,"Curran, Colton Ray",10,52,16,3.25
+201571049,"Checotah, Lyrik M'arie",9,45,16,2.81
+201571051,"Twilleger, Troy Lee",9,42,16,2.62
+201571053,"Rangel Moran, Sergio Alejandro",9,46,16,2.88
+201571056,"Sifuentes Rodriguez, Joaquin",10,58,16,3.62
+201571060,"Morris, Daunte Rahkeem",9,31,18,1.72
+201571064,"Trainer, Brianna Nikole",9,42,16,2.62
+201571067,"Hess, Preston Dale",9,23,18,1.28
+201571069,"Giles Obregon, Ulysses Vicente",9,60,16,3.75
+201571070,"Arcos Obregon, Juan Fernando",9,59,16,3.69
+201640001,"Seymour, Hannah Olivia",10,62,16,3.88
+201640004,"Knight, Hadassah Rinyah",10,6,8,0.75
+201640009,"Tyler, Kadynce Jean",11,38,16,2.38
+201640011,"Allen, Corrie Victoria",11,55,15,3.67
+201640013,"Whetstone, Harper Nevaeh-L'Rece",12,43,14,3.07
+201640015,"Coulter, Mark Logan",9,47,16,2.94
+201640016,"Darnall, Jaden Ryan",9,49,16,3.06
+201640017,"Gutierrez-Agustin, Yoselin Mairany",9,47,18,2.61
+201640019,"Knight, Chana Yahel",9,26,16,1.62
+201640021,"Oliver, Olivia Odessa",9,57,16,3.56
+201640022,"Pablo Funes, Kevin Eli",9,53,16,3.31
+201640023,"Tennant, Peyton J",9,61,16,3.81
+201640024,"Valdovinos, Dante Israel",9,48,16,3.0
+201640025,"Valdovinos, Dylan Ismael",9,40,18,2.22
+201640026,"Wesbrook, Chayden Grace",9,64,16,4.0
+201640027,"Chalmers, Trooper Tydavid",9,39,16,2.44
+201640028,"Erwin, Trinity Rae",9,61,16,3.81
+201640032,"Bruce, Shadrick Cole",9,49,16,3.06
+201640034,"Rohr, Draven Thomas",9,62,16,3.88
+201640040,"Gallegos, Santiago Israel",9,64,16,4.0
+201640042,"Maldonado Guillen, Jocelyn Luz Nancy",11,47,16,2.94
+201640048,"Dixon, Gracelan Rhayne",12,50,14,3.57
+201642005,"Garison, Halie Mae",11,41,16,2.56
+201642006,"Garison, Addison Lynn",10,40,16,2.5
+201642014,"Williams, Abbiegail Elizabeth",10,65,16,4.06
+201642015,"Chaney, Brooklynn Elizabeth",10,31,16,1.94
+201642016,"Hamilton, Caitlin Avagayl",10,16,16,1.0
+201642018,"Beach, Rose Marie",10,19,15,1.27
+201642019,"Kuhn, Michael Wyatt-Homer",9,34,16,2.12
+201642021,"Lower, Alexis Leanne",9,62,16,3.88
+201642022,"Tridle, Payton Phoenix",9,38,16,2.38
+201642023,"Morando, Yadira Olivia",9,34,20,1.7
+201642024,"Whatley, Levi Wryan",9,61,16,3.81
+201642025,"Delgado, Eladio F",9,19,10,1.9
+201642027,"Barrios-Herrera, Yenedhit Dalet",9,49,16,3.06
+201642028,"Brooks, Kasen Davian",9,38,15,2.53
+201642031,"Byrd, Addalynn M",9,61,16,3.81
+201642032,"Charley, Mikah Mercello",9,13,8,1.62
+201642035,"Medina, Eli Adrian",9,17,20,0.85
+201642036,"Smith, Brylan Elizabeth",9,32,16,2.0
+201642037,"Castillo, Isai Jaime",9,12,10,1.2
+201642038,"Erwin, Gabrielle Chanel",9,39,16,2.44
+201642042,"Figueroa, Jefferson",9,63,16,3.94
+201642048,"Francisco Andres, Felix",10,18,15,1.2
+201642050,"Carrasco, Xavier Alvero",9,20,16,1.25
+201642054,"White, Matthew Allen",9,64,16,4.0
+201642057,"Sivils, Isabella Renee",9,41,16,2.56
+201642058,"Hoang, May Ly Long",11,63,16,3.94
+201642065,"Vasquez, Cruz Alexander",9,35,16,2.19
+201642070,"Thompson, Isaiah Jacob",10,34,16,2.12
+201643001,"Adams, Cayden Zamir",10,36,16,2.25
+201643008,"Perez-Mejia, Bryan",10,26,16,1.62
+201643011,"Froese Galvan, Victoria Maribel",10,12,8,1.5
+201643013,"Posey, Davon Cooper",9,44,15,2.93
+201643014,"Musson, Hadley Paige",12,60,15,4.0
+201643018,"Tavarez, Conner Levi",10,5,18,0.28
+201643021,"Chan, Abraham",9,40,18,2.22
+201643023,"Evans, Addison",9,55,16,3.44
+201643024,"Harris, Jaiden Izayah",9,37,16,2.31
+201643026,"Morton, Talon Lane",9,57,16,3.56
+201643027,"Nicely, Bo Aron",9,45,18,2.5
+201643028,"Walker, Justis Ty",9,35,16,2.19
+201643030,"Wilson, Maddox Keith",9,62,16,3.88
+201643033,"Coble, Kenlie Jean",9,49,16,3.06
+201643036,"Lopez-Garcia, Cristina",9,62,16,3.88
+201643038,"Abrams, Joshua Judah",12,55,14,3.93
+201643040,"Buckingham, Briggs",9,64,16,4.0
+201643047,"Puchalla, Addyson Grace",9,52,16,3.25
+201643050,"Lamb, Olivia Mickey",9,49,16,3.06
+201643055,"Proctor, Emilie Raye",10,2,1,2.0
+201643057,"Proctor, Ethan James",10,2,1,2.0
+201648001,"West, Peighton Alysaun",10,58,16,3.62
+201648002,"Rein, Brody Landen",10,29,16,1.81
+201648005,"Echols, Caitlyn Nicole",10,25,11,2.27
+201648006,"Smyer, Hadley Ann",10,53,16,3.31
+201648010,"Cockrell, Kobe Ray",12,51,15,3.4
+201648011,"Herrera, Gianna Grace",10,66,16,4.12
+201648012,"Moore, Taliyah Donyell",9,59,16,3.69
+201648014,"Baker, Brett Lewis",9,37,16,2.31
+201648016,"Divine, Alainna Nicole",9,54,16,3.38
+201648017,"Gutierrez, Haven Lou",9,61,16,3.81
+201648018,"Hamm, Westin Martin",9,62,16,3.88
+201648019,"Headrick, Mason Matthew",9,63,16,3.94
+201648020,"Irvin, Billie Janene",9,44,11,4.0
+201648021,"Jarvis, Hayden Grace",9,54,16,3.38
+201648022,"Massey, Cason Keith",9,61,16,3.81
+201648023,"Massey, Cooper Phillip",9,54,16,3.38
+201648025,"Ochoa, Kailee Jade",9,47,16,2.94
+201648026,"Perkins, Ella Ann",9,60,15,4.0
+201648028,"Whyde, Clarissa Mae",9,50,16,3.12
+201648029,"Walker, Erhan Wayne",9,49,16,3.06
+201648030,"Jose Ramirez, Keila Melina",9,52,16,3.25
+201648032,"Stephen, Materin Karmer",9,54,16,3.38
+201648033,"Graham, Pyrce Raleigh",9,45,17,2.65
+201648034,"Kamier, D Hallers",11,20,16,1.25
+201648043,"Estrada, Aianna Christine",10,48,16,3.0
+201648045,"Marquin Mendoza, Aura Veronica",11,38,16,2.38
+201648048,"Vega, Mayvelin Rosivel",11,24,16,1.5
+201658001,"Richardson, Jack Mellott",10,70,16,4.38
+201658002,"Schuetz, Jackson William",10,70,16,4.38
+201658003,"Schuetz, Carlie Patricia",10,44,16,2.75
+201658004,"Munson, Ella Kate",10,64,16,4.0
+201658005,"Munson, Teague Robert",10,66,16,4.12
+201658006,"Blatchford, Isabella Brianne",10,54,16,3.38
+201658008,"Clawson, Reed Arthur",10,57,16,3.56
+201658012,"Swanson, Jesse James",10,28,16,1.75
+201658013,"Keeney, Elijah Lee",10,59,16,3.69
+201658017,"Williams, Shane Anthony Maurice",10,9,16,0.56
+201666001,"Puchalla, Marshall Clay",10,24,15,1.6
+201666008,"Earls, Mason Thomas",12,50,14,3.57
+201666009,"Terrill, Briggs Dean",10,56,16,3.5
+201666010,"Ball, Adelya Grace",10,70,16,4.38
+201666012,"Vickery, Camden Elizabeth",10,58,16,3.62
+201666013,"Williams, Brooklyn Jade",10,13,16,0.81
+201666016,"Vazquez Herrera, Angel Miguel",10,56,16,3.5
+201666017,"Johnmark, Neison Matsion",9,17,7,2.43
+201666019,"Charley, Tristen Taquoah",10,41,16,2.56
+201666022,"Holden, Mayla Jeanean Louise",10,70,16,4.38
+201666033,"McVey, Joshua Brexton Alan",12,45,17,2.65
+201666036,"Rose, Briley Mae",10,52,16,3.25
+201671007,"Brown, Carmen Lenea",9,42,16,2.62
+201671017,"Falkenberg Three, Donnie Lee",9,26,16,1.62
+201671028,"Kramer, Elijah Zion Kai",9,8,20,0.4
+201671034,"Meyers, Jasper Alexander",9,32,18,1.78
+201671043,"Ramirez, Esmeralda Jazmin",9,37,16,2.31
+201671053,"Vazquez Herrera, Xitlaly Lissette",9,44,16,2.75
+201671062,"Andrews, Oliver Jay",9,17,20,0.85
+201740003,"Whetstone, Anthony Cornell-Everett",9,64,16,4.0
+201740006,"Lares Ramos, Carlos",11,14,15,0.93
+201740007,"Lares Ramos, Michael",11,11,16,0.69
+201740015,"Whitley, Brayden Jack",9,38,16,2.38
+201740023,"Francisco Alonzo, Miguel",9,49,16,3.06
+201740040,"Meza Underhill, Lily Ann",9,37,18,2.06
+201740043,"Ramirez, Mia Analee",11,36,16,2.25
+201742001,"Cyrus, Serenity",9,59,17,3.47
+201742003,"Bissell, Kylie Ann",9,46,16,2.88
+201742004,"Hatcher, Alessia Elaine",9,59,16,3.69
+201742005,"Creveling, Nahni Renee",9,39,18,2.17
+201742008,"Ortega, Edna Giselle",12,26,14,1.86
+201742021,"Francisco Francisco, Reynaldo",9,49,16,3.06
+201742022,"Monroe, Quintin David",11,21,9,2.33
+201742023,"Sawej, Armina Lia",10,60,16,3.75
+201742029,"Mendez Perez, Milena Rubi",9,22,6,3.67
+201742040,"Pu Sanchez, Victor Eduardo",10,32,17,1.88
+201742041,"Pu Sanchez, Fernando",10,28,16,1.75
+201742042,"Pu Sanchez, Johnny Alexander",12,16,4,4.0
+201743001,"Harbert, Taylor Marie",12,6,2,3.0
+201743002,"Cristobal Rodriguez, Christian",9,59,16,3.69
+201743007,"Madewell, Jocelynn Kay",12,23,15,1.53
+201743021,"Hollins, Aaron George",9,49,16,3.06
+201743032,"Tum-Larios, Maria Florencita",11,45,16,2.81
+201743036,"Hernandez-Castro, Juana",10,22,15,1.47
+201748002,"Pieper, Zachary James",11,76,17,4.47
+201748003,"Epps, Draphus Andre",11,58,16,3.62
+201748005,"Carter, Miranda Jude",9,39,16,2.44
+201748006,"Schmidt, MaKaiden Kruz",9,37,16,2.31
+201748007,"Trenary, Colton Yuma",10,66,16,4.12
+201748008,"Trenary, Emi Jane",9,63,16,3.94
+201758003,"Cole, James Franklin",12,56,15,3.73
+201758006,"Duncan, Leah Briar",10,47,16,2.94
+201758009,"Robinson, Athena Rain",12,52,15,3.47
+201766001,"Hewitt, Kailynn Faye",9,64,16,4.0
+201766002,"Figueroa, Saul Josue",9,20,20,1.0
+201766006,"Rogers, Keaghan Emmerich",11,43,16,2.69
+201766007,"Johnson, Aubrey Jeanne",9,52,16,3.25
+201766008,"Spears, Sara Elizabeth-Hutton",9,49,16,3.06
+201766010,"Rikat, Kaden Michael",11,47,16,2.94
+201766027,"Garcia, Elizabeth",11,48,16,3.0
+201840055,"Viegra, Talea Danielle",12,34,16,2.12
+201840077,"Davis, Faith Delynn",10,31,16,1.94
+201840078,"Davis, Samuel James",12,27,11,2.45
+201840079,"Davis, Raymond Edward",12,7,9,0.78
+201840081,"Francisco-Andres, Alejandro",10,16,4,4.0
+201840088,"Crawford, Ashley Mary Renee",9,17,12,1.42
+201840089,"Crawford, David James",11,25,13,1.92
+201840090,"Crawford, Julie Ann Marie",12,57,16,3.56
+201842001,"Gonzales, Kyndol Diane",10,70,16,4.38
+201842045,"Penaloza, Jesus",11,40,10,4.0
+201842046,"Lopez Garcia, Hector Alfredo",11,50,16,3.12
+201842055,"Bergkamp, Frederick Herbert",10,69,16,4.31
+201843001,"Lopez-Rodriguez, Carlos",11,30,16,1.88
+201843004,"Lozano, Marco Taylor",9,63,16,3.94
+201843007,"Chattam, Kooper",9,34,16,2.12
+201843018,"Wakefield, Layla Jean",9,47,16,2.94
+201843019,"Wakefield, Sophie Joye",11,45,15,3.0
+201843064,"Pacheco Magallanes, Zadkiel Miguel",9,46,16,2.88
+201848002,"Valey, Katherine Celeste",11,48,16,3.0
+201848005,"Huddleston, McKinley Rae",10,62,16,3.88
+201848025,"Rodriguez Solis, Juana",9,49,16,3.06
+201848033,"Gruebel, Guinness Abel Mitchell",10,30,16,1.88
+201848034,"Hernandez-Reyes, Yaslin Onelis",11,43,16,2.69
+201858006,"Overall, Christopher Chad",10,58,16,3.62
+201858026,"Galindo, Elijah Giovanni",11,39,15,2.6
+201866009,"Barbour, Brylee May",10,62,16,3.88
+201866053,"Stansbury, William Wayne",10,52,16,3.25
+201866064,"Fang, Shihan",11,70,16,4.38
+201866070,"Sermeno Martinez, Adriana Mirely",11,24,14,1.71
+201940013,"Smith, Alexander Don",11,60,16,3.75
+201940016,"Allison, Zoee Marie",10,24,16,1.5
+201940027,"Schultz, Riley Phoenix",9,31,10,3.1
+201940041,"Newton, Gunner Micheal",9,43,16,2.69
+201943021,"Rodriguez-Us, Diego",10,36,16,2.25
+201943022,"Rodriguez-Us, Eduardo Manuel",9,33,16,2.06
+201943033,"Andres Alonzo, Mateo",12,32,16,2.0
+201948001,"Ixparpuac Leon, Ester",11,46,16,2.88
+201948024,"Longoria, Noah Michael",10,49,16,3.06
+201954034,"Campbell, Breanna Weslee",12,6,2,3.0
+201958008,"Weatherford, Layla Page",11,62,15,4.13
+201958009,"Hankins, Hope Nichole",11,64,16,4.0
+201958025,"Cortez, Favian Alejandra",9,26,16,1.62
+201966004,"Vallejos Reyes, Keneth Emilio",11,21,16,1.31
+201966005,"Vallejos Reyes, Daylee Adai",12,46,15,3.07
+201966039,"Torres Izara, Norma Fernanda",9,45,15,3.0
+201966041,"Baker, Kyndall Kaye",9,4,2,2.0
+202040114,"Gutierrez Madrid, Elvin Esau",9,22,16,1.38
+202040115,"Villatoro Juarez, Dulce Marbella",9,62,16,3.88
+202040117,"Vowell, Andrew Ray",11,30,16,1.88
+202040119,"Moore, Josi Rae",10,66,16,4.12
+202040120,"Moore, Jace Allen",9,44,16,2.75
+202042104,"Guzman, Angel Noel",11,65,16,4.06
+202042105,"Guzman, Priscilla Marie",9,22,6,3.67
+202042141,"Gonzalez, Juan Manuel",9,35,14,2.5
+202043111,"Phillips, Gracie",10,35,16,2.19
+202043119,"Espericueta Gonzalez, Diana Ivone",11,45,16,2.81
+202043220,"Espericueta Gonzalez, Michelle Guadalupe",10,44,16,2.75
+202048108,"Chaney, Evan Ryan",9,59,16,3.69
+202048116,"Evans, Tessa Rain",10,48,16,3.0
+202048117,"Evans, Christian Errol",11,38,16,2.38
+202054001,"Quint, Kolby Wayne",12,55,14,3.93
+202054002,"Jennings, Meka Ann",12,52,14,3.71
+202054003,"Leyva, Mariaelena Angela",12,46,15,3.07
+202054009,"Casas, Alexander",12,28,16,1.75
+202054025,"Reno, Eligah Lelend",12,2,7,0.29
+202054032,"Chaney, Espyn Rae",12,52,13,4.0
+202054034,"Warford, Kyson David",12,0,8,0.0
+202054039,"Auku, BK Karaten",12,17,20,0.85
+202054042,"Tackett, Elisha Brooke",12,16,4,4.0
+202054064,"Frye, Jackson",12,42,16,2.62
+202054070,"Braley, Breianna Beth",12,44,14,3.14
+202058009,"Burnett, Brianna Isabella Hope",11,4,14,0.29
+202066002,"Casas, Camila Janis",10,23,15,1.53
+202066013,"Rider, Taeley Mary-Grace",9,53,16,3.31
+202066058,"Frye, Landy Ridge",10,40,16,2.5
+202066060,"Braley, Rebekkah Ann",11,36,16,2.25
+202140003,"Vasser, Mercedes Rose",10,35,16,2.19
+202140030,"Zimmerman, Cara Nichole",10,59,16,3.69
+202142003,"Lopez, Anderson Leonel",10,25,15,1.67
+202142006,"Leyva, Rosa Maria",10,62,16,3.88
+202143055,"Schwartz, Jarrett James",9,44,16,2.75
+202143056,"Schwartz, Austin Sir",9,59,16,3.69
+202143063,"Brewer, Karis",10,70,16,4.38
+202148012,"Martens, Madison Yvonne",10,62,16,3.88
+202148022,"Manuel, Khloe Love",9,57,16,3.56
+202148027,"Ruff, Jaden Dean",9,47,16,2.94
+202154001,"Norwood, Chase Gregory",11,69,16,4.31
+202154002,"Monroe, Anna-Lea June",11,66,16,4.12
+202154011,"Vasser, Gladys Amanda Mae",12,14,7,2.0
+202154018,"Mateo Pascual, Mateo Vinicio",11,23,16,1.44
+202154026,"Froncek, Jareth Riley",10,0,7,0.0
+202154028,"Castro Tapia, Andy",11,30,16,1.88
+202154029,"Castro Tapia, Alexander",12,56,16,3.5
+202154032,"Rodriguez, Evany",11,39,15,2.6
+202154039,"Gervais, Loriell S.",11,36,17,2.12
+202158020,"Moomey, Jeremy James",9,12,8,1.5
+202166025,"Navarrete-Fuentes, Greidys",10,25,16,1.56
+202240029,"Pace, Lillie",9,50,16,3.12
+202242028,"Setile, Jimatlee Jimree",9,22,8,2.75
+202248007,"Carson, Darius Michael",9,50,16,3.12
+202248013,"Martin, David Robert",9,23,20,1.15
+202254001,"Larson, Jaycie Lynn",10,58,16,3.62
+202254005,"Camp, Drayden Ta'Mar Bruce",10,45,16,2.81
+202254007,"Carson, Justyce",12,62,16,3.88
+202254009,"Lyman, Paul Thomas",12,66,17,3.88
+202254015,"Wilson, Alexandra",10,6,8,0.75
+202254016,"Wilson, Sarah",12,20,16,1.25
+202254018,"Bangle, Skyler",10,42,16,2.62
+202254019,"Jackson, Jaxson",11,66,16,4.12
+202254023,"Peters, Zack",11,41,17,2.41
+202254030,"De Leon Torres, Gerson Betzael",12,29,19,1.53
+202254032,"McCandless, Cameren",11,33,16,2.06
+202254033,"Norman, Kaiden Leigh",12,45,16,2.81
+202254034,"Morales Ortiz, Marta",10,29,8,3.62
+202254041,"Belland, Cesar Anthony",10,16,16,1.0
+202254042,"Vasicek, Milo",10,3,9,0.33
+202254044,"Mapel, Addison",12,44,14,3.14
+202254045,"Nasworthy, Donavan Matthew Lee",10,37,16,2.31
+202254046,"Morales-Ortiz, Erael",10,53,16,3.31
+202254052,"Pascual Juan, Melisia Lucinda",11,58,16,3.62
+202254057,"Crawford, Marissa",12,9,10,0.9
+202254058,"Vega, Charly",10,61,16,3.81
+202254059,"Vega, Zarah Elisha",11,58,16,3.62
+202254060,"Adams, Brayden T",10,58,16,3.62
+202254063,"Lawrence, Christopher Scott",12,29,14,2.07
+202256010,"Herrera Rodas, Carlos Alberto",12,7,2,3.5
+202256065,"Matias Gomez, Franklin Martin",12,3,9,0.33
+202258006,"McDade, Prestian Isaac Terryn",9,29,16,1.81
+202258009,"Gomez Gomez, Paula",9,40,16,2.5
+202258017,"Dreher, Jaydon Andrew-Clinton",9,19,16,1.19
+202266026,"Rife, Damyan Axel",9,51,16,3.19
+202354001,"Marchitell, Asher James",9,58,16,3.62
+202354003,"Loveland, Thomas J.",9,64,16,4.0
+202354004,"Loveland, Lucinda",11,8,2,4.0
+202354006,"Fearneyhough, Nicholas Wayne",10,20,16,1.25
+202354007,"Fearneyhough, Alex Edward",10,27,16,1.69
+202354008,"Lewis, Samuel Jacob",10,51,16,3.19
+202354009,"Grace, Lillian Renee",10,73,17,4.29
+202354011,"Rodriquez, Hope",11,66,16,4.12
+202354013,"Hay, Katelyn Elizabeth",11,71,16,4.44
+202354014,"Pope, Reggenald James",9,52,16,3.25
+202354016,"Durham, Arvada Cheyenne",11,68,16,4.25
+202354017,"Hibbs, Malia",11,27,16,1.69
+202354018,"Viravong, Aveline Patsala",9,47,16,2.94
+202354021,"Durham, Jeremy Ryan",9,60,16,3.75
+202354023,"Crawford, Lucus Anthony Lane",9,11,4,2.75
+202354027,"Vega Mencos, Elder Daniel",10,34,16,2.12
+202354028,"Bell, Maliyah Semaj",11,55,16,3.44
+202354029,"Lopez-Hernandez, Brandon",9,5,20,0.25
+202354033,"Garrison, Rylee",11,9,10,0.9
+202354036,"Espino Rocha, Juana Paola",11,38,16,2.38
+202354038,"Seaton, Katelyn Lee Ann",9,58,15,3.87
+202354043,"Walters-Hewitt, Angel",9,35,16,2.19
+202354046,"Clark, Jacob W",10,3,2,1.5
+202354051,"Lucas Escobar, Dany Adaias",11,42,16,2.62
+202354052,"Lucas Escobar, Melany Abigail",9,54,16,3.38
+202356019,"Badillo, Yazmin Alejandra",12,34,16,2.12
+202356053,"Sanchez, Ruby Ariana",12,38,18,2.11
+202400068,"Nichols, Peyton Luanne",12,18,6,3.0
+202400087,"Ledbetter, Addison Marie",11,0,6,0.0
+202400118,"Martinez Amaya, Gissell Antonia",12,30,13,2.31
+202400119,"Grimes, Nalayiah Lee Marie",9,23,8,2.88
+202400120,"Martinez Amaya, Sofia Meleny",10,54,14,3.86
+202400123,"Amaya-Azurdia, Angie Jasmin",12,11,4,2.75
+202400127,"Suazo, Wilbert Enrique",9,26,8,3.25
+202400141,"Snow, Madyson",10,57,16,3.56
+202400220,"West, Emily Madison",11,49,14,3.5
+202454006,"Reyes, Isaiah Javier",10,35,16,2.19
+202454007,"Reyes, Ivan Jovan",9,43,16,2.69
+202454011,"Dozier, Aaron Dale",10,13,15,0.87
+202454012,"Godfrey, Kohen Gene",10,37,16,2.31
+202454013,"Godfrey, Kross Enoch",9,37,16,2.31
+202454015,"Alley, Jaydne",9,29,16,1.81
+202454021,"King, Jordyn",10,15,9,1.67
+202454023,"Aguilar-Tepancalco, Jesus Emmanuel",9,15,16,0.94
+202454027,"Martineau, Kailynn Marie",9,48,16,3.0
+202454030,"Angei, Layterin",9,53,15,3.53
+202456002,"Davis, Isaiah Bowen",11,65,16,4.06
+202456003,"Hetti, Bobolynn",12,17,17,1.0
+202456004,"Anstine, Addison Grace",11,76,18,4.22
+202456012,"Sims, Mila K",12,51,13,3.92
+202456017,"Garcia, Laila Isabel",11,42,16,2.62
+202456020,"Hernandez Flores, Keirin",12,42,15,2.8
+202456022,"Lopez Romero, Julia",11,53,16,3.31
+202456023,"Lopez De La Cruz, Catalina",12,63,16,3.94
+202456029,"Hernandez Valenzuela, Fernando",12,52,16,3.25
+202456031,"Dozier, Clinton",10,5,8,0.62
+202456032,"Calvillo Flores, Cinthia",12,40,16,2.5
+202456034,"Rodriguez Muz, Dionicia",11,38,16,2.38
+202456039,"Francisco Francisco, Ronaldo",12,30,16,1.88
+202456041,"Perez Andres, Aracely",11,45,16,2.81
+202456043,"Juarez Lorenzo, Santos",12,1,8,0.12
+202456044,"de la Cruz Mejia, Paulina",12,61,20,3.05
+202456045,"Manuel Diego, Matias Jose",11,29,16,1.81
+202456048,"Alonzo Guico, Tomas",12,56,16,3.5
+202456050,"Franks, Cheyenne Michelle",10,16,8,2.0
+202456051,"Gleason, Kayson Kekoa",12,63,16,3.94
+202456054,"Castaneda Castro, Luzely",11,31,16,1.94
+202456056,"Gamas Raymundo, Fredy",12,8,8,1.0
+202456057,"Gaspar Juan, Juana Candelaria",12,59,16,3.69
+202456061,"Harris, Conner Wayne David",12,56,15,3.73
+202456062,"Thompson, Aleigha Mae",12,46,16,2.88
+202526004,"Batz Cruz, Roni",10,46,16,2.88
+202554005,"Flores, Landon",9,39,16,2.44
+202554023,"Henry, Livia",9,50,16,3.12
+202554026,"Orellana-Gramajo, Victor Jose",9,51,16,3.19
+202554033,"Singleton, Brianna Marie Simon",9,10,10,1.0
+202554034,"Welle, Ensineiarley",9,26,8,3.25
+202554036,"Duenas Rivera, Brandon Jose",9,25,8,3.12
+202554039,"Gutierrez Medina, Omar Alexander",9,30,8,3.75
+202556002,"Rivas Juarez, Irene",12,64,16,4.0
+202556003,"Batz Cruz, Fredy J",11,40,17,2.35
+202556006,"Eastman, Hally Marie",10,61,16,3.81
+202556007,"Teel, Chance Ryan",11,41,16,2.56
+202556008,"Backus, Skya",9,4,8,0.5
+202556009,"Wilbert, Donan D",11,26,16,1.62
+202556010,"Aisek, Jasmelyn Misty",11,7,18,0.39
+202556014,"Morales Elias, Roberto Feliciano",12,52,20,2.6
+202556015,"Rodriguez Sanchez, Emanuel",11,45,16,2.81
+202556016,"Aliano, Viviana Isabella",11,64,16,4.0
+202556020,"Zavala Favila, Bertha Yuliana",12,51,15,3.4
+202556021,"Zavala Favila, Armando",12,47,16,2.94
+202556024,"Esteban Sebastian, Lucia Maribel",9,1,8,0.12
+202556027,"Hirst, Makenzie Noel",11,4,8,0.5
+202556031,"Diaz, Ziela Jezelle",12,35,14,2.5
+202556032,"Clark, Austin Roy",9,3,8,0.38
+202556033,"Vasquez Castillo, Pablo Isaias",11,22,16,1.38
+202556034,"Lawson, Ashlynne Grace",10,29,16,1.81
+202556035,"Johnson, Demetrius W",12,45,15,3.0
+202556036,"Yost, Amy",11,8,7,1.14
+202556038,"Seals, Abagail Snowe",10,58,15,3.87
+202556039,"Seals, Ravenn Storme",12,32,12,2.67
+202556041,"Castillo-Magana, Jorge",11,34,17,2.0
+202556042,"Castro Hernandez, Winter Kevin Manuel",12,55,16,3.44
+202556043,"Stafford, Madyson",11,45,14,3.21
+202556045,"Williams, Kobe Levi",9,21,8,2.62
+202556046,"Duenas Rivera, Wayner Esnayder",11,22,8,2.75
+202556048,"Perez Alvarez, Eduardo",11,11,16,0.69
+202556049,"Perez Lopez, Jimmy Alexander",12,28,8,3.5
+743811001,"Giles, Mylee Raye",12,62,15,4.13
+745601586,"Wells, Rowan Dean",12,64,16,4.0
+745602067,"Buell, Serenity",12,48,16,3.0
+2017430014,"Boyle, Khloe Elynne",10,67,16,4.19
+2017430016,"Velasquez Pastor, Beatrix",9,57,16,3.56
+2017430018,"Matters, Caleb Leslie Mark",9,50,16,3.12
+2017430027,"Rodriguez Pu, Diego",10,30,16,1.88

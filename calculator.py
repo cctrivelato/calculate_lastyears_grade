@@ -1,7 +1,7 @@
 import pandas as pd
 
 # --- 1. File Path ---
-grades_filepath = 'grades.csv' # Your new space-separated file
+grades_filepath = 'grades2.0.csv' # Your new space-separated file
 
 # --- 2. Load the Data ---
 try:
@@ -28,8 +28,8 @@ except Exception as e:
 # --- 3. Assign Column Names and Clean Data ---
 # We select and rename the columns to work with the rest of the script.
 # This makes it easy to change if your source column names change.
-grades_clean_df = grades_df[['Student_Number', 'LastFirst', 'Grade', 'Gradescaleid']].copy()
-grades_clean_df.columns = ['student_id', 'student_name', 'grade', 'description']
+grades_clean_df = grades_df[['Student_Number', 'LastFirst', 'Grade_level', 'Grade', 'Gradescaleid']].copy()
+grades_clean_df.columns = ['student_id', 'student_name', 'grade_level', 'grade', 'description']
 
 # --- 4. Clean and Filter for Valid Grades ---
 print("Normalizing and filtering for valid grades (A, B, C, D, F)...")
@@ -67,8 +67,8 @@ print("Points calculation complete.\n")
 
 # --- 6. Calculate Final GPA for Each Student ---
 print("Calculating final GPAs...")
-# Group by the new, consistent column names
-gpa_results = grades_clean_df.groupby(['student_id', 'student_name']).agg(
+# Group by the new, consistent column names, including grade_level
+gpa_results = grades_clean_df.groupby(['student_id', 'student_name', 'grade_level']).agg(
     total_points=('points', 'sum'),
     course_count=('grade', 'count')
 ).reset_index()
@@ -79,8 +79,8 @@ gpa_results.loc[gpa_results['course_count'] > 0, 'gpa'] = gpa_results['total_poi
 # --- 7. Display and Save the Final Results ---
 print("Final GPA Results:")
 gpa_results['gpa'] = gpa_results['gpa'].round(2)
-print(gpa_results[['student_id', 'student_name', 'gpa']])
+print(gpa_results[['student_id', 'student_name', 'grade_level', 'gpa']])
 
-output_filename = 'student_gpas.csv'
+output_filename = 'student_gpas_withgradelevel.csv'
 gpa_results.to_csv(output_filename, index=False)
 print(f"\nResults have been saved to {output_filename}")

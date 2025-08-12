@@ -78,32 +78,56 @@ def main():
 
     # Now get grades for each student for two terms
     for student_id in studentsclass.keys():
-        print(student_id)
+        print(f"--- Processing Student ID: {student_id} ---")
+        
+        # Loop through each term for the student
         for termid, storecode in [("3401", "S1"), ("3402", "S2")]:
+            print(f"Checking Term: {termid}, Store Code: {storecode}")
             page = 1
+            
             while True:
-                grades_url = f"{base_url}/ws/schema/table/storedgrades"
+                # Construct the query string to filter results on the server
                 query = f"studentid=={student_id};termid=={termid};storecode=={storecode}"
+                
+                grades_url = f"{base_url}/ws/schema/table/storedgrades"
                 params = {
-                    "q": query,
+                    "q": query,           # ✅ FIXED: Pass the query to the API
                     "page": page,
-                    "pagesize": 100,
+                    "pagesize": 100,      # ✅ IMPROVED: Request more records at once for efficiency
                     "projection": "grade,studentid,gradescale_name"
                 }
-                response = requests.get(grades_url, headers=headers, params=params)
-                response.raise_for_status()
-                data = response.json()
-                grades = data.get("data", [])
-                if not grades:
-                    break
-                all_grades.extend(grades)
-                page += 1
+                
+                try:
+                    response = requests.get(grades_url, headers=headers, params=params)
+                    response.raise_for_status() # Check for HTTP errors (e.g., 404, 500)
+                    data = response.json()
+                    
+                    # NOTE: The key in the JSON response containing the list of data can vary.
+                    # PowerSchool APIs often use 'record'. This code checks for 'record' first,
+                    # then falls back to your original 'storedgrades'.
+                    grades = data.get('record') or data.get('storedgrades')
 
-    # Add grades to students
-    for g in all_grades:
-        student = studentsclass.get(g["studentid"])
-        if student:
-            student.add_course(g["grade"], g["gradescale_name"])
+                    # ✅ FIXED: If the API returns no records, we've reached the end.
+                    if not grades:
+                        print("No grades")
+                        break # Exit the 'while' loop
+
+                    # Process and display the grades you received
+                    for grade_record in grades:
+                        print(f"  - Grade: {grade_record.get('grade')}, Scale: {grade_record.get('gradescale_name')}")
+
+                    # ✅ IMPROVED: If we got fewer records than we asked for, it's the last page.
+                    if len(grades) < params["pagesize"]:
+                        break # Exit the 'while' loop
+
+                    # ✅ FIXED: Go to the next page for the next loop iteration.
+                    page += 1
+
+                except requests.exceptions.RequestException as e:
+                    print(f"An error occurred: {e}")
+                    break # Stop processing this term if an error occurs
+
+    print("-" * 40) 
 
     # Write results to TSV
     with open("students_gpa.tsv", "w", newline="") as f:

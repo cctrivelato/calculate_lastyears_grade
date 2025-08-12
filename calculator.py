@@ -1,149 +1,86 @@
-import requests
-import csv
-from students import Student
+import pandas as pd
 
-studentsclass = []
+# --- 1. File Path ---
+grades_filepath = 'grades.csv' # Your new space-separated file
 
-base_url = "https://usd470.powerschool.com"
-client_id = "b3329d40-f8b2-47c8-96b6-2083262acc42"
-client_secret = "3c788652-9442-4bba-9e4e-50bb7160c3ec"
-
-def get_data(headers, page, url):
-
-    try:
-        response = requests.get(url, headers=headers, timeout=10)
-        print(f"Page {page} status: {response.status_code}")
-        response.raise_for_status()
-    except requests.exceptions.ConnectTimeout:
-        print(f"⚠️ Connection timed out while requesting page {page}")
-        return []
-    except requests.exceptions.RequestException as e:
-        print(f"❌ Request failed: {e}")
-        return []
-
-    data = response.json()
-    if isinstance(data, list):
-        return data
-    elif isinstance(data, dict):
-        return next((v for v in data.values() if isinstance(v, list)), [])
-    else:
-        return data.get('items', [])
-
-def get_access_token():
-    token_url = f"{base_url}/oauth/access_token"
-    response = requests.post(token_url, data={
-        'grant_type': 'client_credentials'
-    }, auth=(client_id, client_secret))
+# --- 2. Load the Data ---
+try:
+    print(f"Loading grades data from: {grades_filepath}")
+    # The file now has a header, so we let pandas read it automatically.
+    grades_df = pd.read_csv(grades_filepath, encoding='latin1')
     
-    response.raise_for_status()
-    token_data = response.json()
-    return token_data['access_token']
+    # --- Check if the DataFrame is empty after loading ---
+    if grades_df.empty:
+        print("\n--- ERROR ---")
+        print("No data was found in the input file. Please check that the file is not empty.")
+        exit()
 
-def main():
-    headers = {
-        'Authorization': f'Bearer {get_access_token()}',
-        'Accept': 'application/json',
-    }
+    print(f"Data loaded successfully. Processed {len(grades_df)} records.\n")
 
-    studentsclass = {}
-    all_students = []
-    all_grades = []
+except FileNotFoundError as e:
+    print(f"Error: {e}")
+    print("Please make sure the file name and path are correct.")
+    exit()
+except Exception as e:
+    print(f"An unexpected error occurred during file loading: {e}")
+    exit()
 
-    # Get all students (paginated)
-    page = 1
-    while True:
-        user_package = f"{base_url}/ws/schema/table/students?q=enroll_status==0;schoolid==7456&page={page}&pagesize=100&projection=first_name,last_name,grade_level,id"
-        students = get_data(headers, page, user_package)
-        if not students:
-            break
-        all_students.extend(students)
-        page += 1
+# --- 3. Assign Column Names and Clean Data ---
+# We select and rename the columns to work with the rest of the script.
+# This makes it easy to change if your source column names change.
+grades_clean_df = grades_df[['Student_Number', 'LastFirst', 'Grade', 'Gradescaleid']].copy()
+grades_clean_df.columns = ['student_id', 'student_name', 'grade', 'description']
 
-    # Create Student objects indexed by ID
-    for s in all_students:
-        first_name = s.get("first_name", "Unknown")
-        last_name = s.get("last_name", "Unknown")
-        grade_level = s.get("grade_level", "Unknown")
-        student_id = s.get("id", None)
+# --- 4. Clean and Filter for Valid Grades ---
+print("Normalizing and filtering for valid grades (A, B, C, D, F)...")
+valid_grades = ['A', 'B', 'C', 'D', 'F']
 
-        if student_id is None:
-            print("Warning: student missing ID:", s)
-        else:
-            studentsclass[student_id] = Student(
-                id_number=student_id,
-                firstname=first_name,
-                lastname=last_name,
-                grade_level=grade_level
-            )
+grades_clean_df['grade'] = grades_clean_df['grade'].astype(str).str.strip()
+grades_clean_df['grade'] = grades_clean_df['grade'].str[0]
 
-    # Now get grades for each student for two terms
-    for student_id in studentsclass.keys():
-        print(f"--- Processing Student ID: {student_id} ---")
+original_rows = len(grades_clean_df)
+grades_clean_df = grades_clean_df[grades_clean_df['grade'].isin(valid_grades)]
+print(f"Removed {original_rows - len(grades_clean_df)} rows with non-standard or invalid grades.\n")
+
+
+# --- 5. Define Grade Point and Calculation Logic ---
+def calculate_grade_points(row):
+    """
+    Calculates points for a grade. Adds a +1 bonus if the description
+    is 'AP Grades'.
+    """
+    grade_map = {'A': 4, 'B': 3, 'C': 2, 'D': 1, 'F': 0}
+    grade = row['grade']
+    description = str(row['description']).strip()
+    
+    points = grade_map.get(grade, 0) # Use .get() for safety in case of unexpected data
+    
+    # Check if the course is an honors course and the grade is not an 'F'
+    if description == 'AP Grades' and grade != 'F':
+        points += 1
         
-        # Loop through each term for the student
-        for termid, storecode in [("3401", "S1"), ("3402", "S2")]:
-            print(f"Checking Term: {termid}, Store Code: {storecode}")
-            page = 1
-            
-            while True:
-                # Construct the query string to filter results on the server
-                query = f"studentid=={student_id};termid=={termid};storecode=={storecode}"
-                
-                grades_url = f"{base_url}/ws/schema/table/storedgrades"
-                params = {
-                    "q": query,           # ✅ FIXED: Pass the query to the API
-                    "page": page,
-                    "pagesize": 100,      # ✅ IMPROVED: Request more records at once for efficiency
-                    "projection": "grade,studentid,gradescale_name"
-                }
-                
-                try:
-                    response = requests.get(grades_url, headers=headers, params=params)
-                    response.raise_for_status() # Check for HTTP errors (e.g., 404, 500)
-                    data = response.json()
-                    
-                    # NOTE: The key in the JSON response containing the list of data can vary.
-                    # PowerSchool APIs often use 'record'. This code checks for 'record' first,
-                    # then falls back to your original 'storedgrades'.
-                    grades = data.get('record') or data.get('storedgrades')
+    return points
 
-                    # ✅ FIXED: If the API returns no records, we've reached the end.
-                    if not grades:
-                        print("No grades")
-                        break # Exit the 'while' loop
+print("Calculating grade points for each course...")
+grades_clean_df['points'] = grades_clean_df.apply(calculate_grade_points, axis=1)
+print("Points calculation complete.\n")
 
-                    # Process and display the grades you received
-                    for grade_record in grades:
-                        print(f"  - Grade: {grade_record.get('grade')}, Scale: {grade_record.get('gradescale_name')}")
+# --- 6. Calculate Final GPA for Each Student ---
+print("Calculating final GPAs...")
+# Group by the new, consistent column names
+gpa_results = grades_clean_df.groupby(['student_id', 'student_name']).agg(
+    total_points=('points', 'sum'),
+    course_count=('grade', 'count')
+).reset_index()
 
-                    # ✅ IMPROVED: If we got fewer records than we asked for, it's the last page.
-                    if len(grades) < params["pagesize"]:
-                        break # Exit the 'while' loop
+gpa_results['gpa'] = 0.0
+gpa_results.loc[gpa_results['course_count'] > 0, 'gpa'] = gpa_results['total_points'] / gpa_results['course_count']
 
-                    # ✅ FIXED: Go to the next page for the next loop iteration.
-                    page += 1
+# --- 7. Display and Save the Final Results ---
+print("Final GPA Results:")
+gpa_results['gpa'] = gpa_results['gpa'].round(2)
+print(gpa_results[['student_id', 'student_name', 'gpa']])
 
-                except requests.exceptions.RequestException as e:
-                    print(f"An error occurred: {e}")
-                    break # Stop processing this term if an error occurs
-
-    print("-" * 40) 
-
-    # Write results to TSV
-    with open("students_gpa.tsv", "w", newline="") as f:
-        writer = csv.writer(f, delimiter="\t")
-        writer.writerow(["FirstName", "LastName", "ID", "GradeLevel", "GPA"])
-        for student in studentsclass.values():
-            gpa = student.calculate_weighted_gpa()
-            writer.writerow([
-                student.first_name,
-                student.last_name,
-                student.student_id,
-                student.grade_level,
-                gpa if gpa is not None else ""
-            ])
-
-    print("✅ Tab-delimited file 'students_gpa.tsv' created.")
-
-if __name__ == "__main__":
-    main()
+output_filename = 'student_gpas.csv'
+gpa_results.to_csv(output_filename, index=False)
+print(f"\nResults have been saved to {output_filename}")

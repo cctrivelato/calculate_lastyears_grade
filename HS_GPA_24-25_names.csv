@@ -1,0 +1,944 @@
+student_id,first_name,last_name,grade_level,total_custom_points,course_count,gpa
+2556047,Alejandro,Perez Alvarez,12,24,14,1.71
+20140093,Sebastian,Rodriguez,9,57,16,3.56
+20154008,Amayrani,Duran,11,62,16,3.88
+20154044,Allison,Estrada,10,66,16,4.12
+20161031,Alejandro,Martin-Francisco,9,27,16,1.69
+201100014,Mary-Kate,Sebastian,12,16,4,4.0
+201100038,Braydn,Ghram,12,56,16,3.5
+201100192,Serianna,Martinez,12,41,16,2.56
+201100204,Samantha,Jubeck,12,44,16,2.75
+201100215,Gabriel,Cannon,12,32,11,2.91
+201100249,Trace,Rider,12,45,15,3.0
+201100300,Warren,McIntosh,12,21,14,1.5
+201100329,Karina,Corona-Engle,12,54,16,3.38
+201100332,Juan,Andres Domingo,12,37,15,2.47
+201100333,Jason,Jose,12,22,15,1.47
+201100338,Gabriella,Banta,12,55,14,3.93
+201100344,Kendell,Beougher,12,52,16,3.25
+201100351,Nayely,Garcia,12,30,12,2.5
+201100360,Kristopher,Killman,11,25,8,3.12
+201100368,Armando,Interiano,12,17,16,1.06
+201100371,Titus,Coffey,12,30,17,1.76
+201100372,Lacey,Eagan,12,11,7,1.57
+201100374,Beth,Morrow,12,34,13,2.62
+201100376,Dreydon,Morris,12,16,4,4.0
+201100382,Mauricio,Montoya Contreras,12,20,15,1.33
+201100388,Yasenia,Hernandez,12,14,15,0.93
+201100389,Sophie,Hollins,12,27,15,1.8
+201100390,Juan,Mendez,12,28,18,1.56
+201100392,Luis,Sandoval,12,1,16,0.06
+201100393,Brian,Gonzalez Cruz,12,47,19,2.47
+201100394,William,Horton,12,26,15,1.73
+201100396,Jose,Morando,12,50,14,3.57
+201100400,Trey,Noland,12,58,16,3.62
+201100418,Tylicca,Morris,12,33,16,2.06
+201100439,Brody,Pinion,11,52,16,3.25
+201100445,Gracie,Nuss,12,46,14,3.29
+201100453,Darrius,Stanley,12,42,16,2.62
+201100476,Javier,Ramirez Sebastian,12,2,9,0.22
+201100477,Lakyn,Hale,12,51,12,4.25
+201100488,Samantha,Harader,12,50,13,3.85
+201100510,Killian,Gruebel,11,16,15,1.07
+201100512,Kembran,Watson Tolbert,12,60,14,4.29
+201100517,Crystal,Zapata,12,53,14,3.79
+201100522,Cassandra,Lile,12,24,17,1.41
+201100527,Lanna,Johnson,12,62,14,4.43
+201100534,Shambrie,Creed,11,39,16,2.44
+201100552,Natalie,Vasquez Lopez,12,57,15,3.8
+201100580,Logan,McKown,11,39,16,2.44
+201100581,Angelina,Diaz-Romero,11,17,12,1.42
+201100611,Taylen,Dunn,11,53,16,3.31
+201100652,Hayden,Walker-Leverenz,11,28,16,1.75
+201100659,Chloe,Schwyhart,11,60,16,3.75
+201100661,Baylee,McGuire,11,51,16,3.19
+201100662,Landen,Larson,12,56,15,3.73
+201100670,Keegan,Shook,12,55,16,3.44
+201100723,Otis,Billings,12,31,12,2.58
+201100725,Talon,Billings,12,32,14,2.29
+201100726,Hagen,Bittinger,12,42,16,2.62
+201100729,Ashton,Brown,12,41,13,3.15
+201100731,Talen,Daily,12,53,16,3.31
+201100733,Kaell,Green,12,29,16,1.81
+201100734,Angel,Jenkins,12,42,14,3.0
+201100737,Alaina,Lower,12,17,15,1.13
+201100740,Melissa,Pinion,12,52,13,4.0
+201100745,Robert,Young,12,26,16,1.62
+201100746,Cameron,Layton,12,54,15,3.6
+201100747,Yesenia,Felix Juan,12,31,18,1.72
+201100748,MyKaylee,Goff,12,45,14,3.21
+201100749,Nathanial,Hawley,12,53,20,2.65
+201100750,Rylan,Kingsbury,12,32,14,2.29
+201100751,Kaiden,McCaslin,12,9,5,1.8
+201100752,Sophie,Woods,12,61,15,4.07
+201100756,Miley,Thompson,12,64,14,4.57
+201100757,Marely,Trujillo Vega,12,62,15,4.13
+201100759,Shylar,Colton,12,32,15,2.13
+201100780,Jordey,Pierce,12,53,14,3.79
+201100802,Yeraldine,Delgado,12,57,15,3.8
+201100804,Derion,Checotah,12,31,11,2.82
+201100805,Maddox,Stewart,12,11,16,0.69
+201100815,Saira,Zepeda,12,41,15,2.73
+201100822,Luke,Gill,11,50,16,3.12
+201100823,James,Suter,11,25,17,1.47
+201100832,Raiden,Hartman,11,16,4,4.0
+201100840,Tristan,Murphy,12,30,10,3.0
+201100841,Milo,McLeod,12,60,16,3.75
+201100842,Aubrie,Lynn,12,56,16,3.5
+201100845,Ariel,Krueger,12,44,15,2.93
+201100846,Devin,Helms,12,28,16,1.75
+201100848,Edgar,Ambriz-Rodriguez,12,50,16,3.12
+201100850,Jackson,Whyde,12,11,16,0.69
+201100851,Ethan,Cassaw,12,29,16,1.81
+201100856,Micaela,Domingo,12,55,16,3.44
+201100858,Hector,Jose Sebastian,11,1,7,0.14
+201100863,Autumn,Focke,12,41,17,2.41
+201100875,Ashley,Monroy-Roblero,12,46,15,3.07
+201100883,Elena,Retana,12,57,15,3.8
+201100884,Crystal,Calvo,12,48,13,3.69
+201100885,Karsyn,Bernd,11,62,16,3.88
+201100888,Rendy,Sebastian,12,51,16,3.19
+201100891,Bailey,Jackson,11,69,16,4.31
+201100895,Avery,Brown,11,33,17,1.94
+201100897,Anamaryel,Cabrera,11,68,16,4.25
+201100901,Candall,Elwell,11,18,11,1.64
+201100902,Alejandra,Enriquez,12,25,13,1.92
+201100904,Khalyiah,Evans,11,47,16,2.94
+201100911,Dariel,Garcia,11,34,16,2.12
+201100914,Stetson,Hushaw,11,56,16,3.5
+201100917,Xavier,Lawler,11,34,16,2.12
+201100919,Edwin,Lopez Leon,12,36,16,2.25
+201100920,Yaritza,Lopez Leon,11,49,16,3.06
+201100922,Jayson,Martinez,11,27,16,1.69
+201100925,Adan,Millan,11,27,17,1.59
+201100927,Laken,Mundy,11,28,14,2.0
+201100928,Wilson,Ortega,12,48,18,2.67
+201100929,Maria,Perez Rodriguez,11,40,16,2.5
+201100934,Daniel,Rueda,11,58,15,3.87
+201100935,Pablo,Sanchez Benavente,11,18,15,1.2
+201100937,Paisley,Taylor,11,35,16,2.19
+201100938,Melany,Sandoval,11,25,16,1.56
+201100939,Kamree,Marsh,11,21,14,1.5
+201100942,Cameron,Trenary,11,21,20,1.05
+201100943,David,Miller,12,42,15,2.8
+201100944,Isaiah,Solis,11,54,16,3.38
+201100945,Shane,Graham-Waite,11,37,16,2.31
+201100946,Piper,Waugh,12,38,14,2.71
+201100951,Xavier,Interiano,11,45,16,2.81
+201100957,Rafael,Varela,10,60,16,3.75
+201100960,Sheyla,Barrios Herrera,12,31,17,1.82
+201100968,Shay,Wyckoff,12,48,15,3.2
+201100971,Lauren,Coury,12,63,16,3.94
+201100972,Brody,Stoner,12,52,16,3.25
+201100976,Daxton,Weakley,12,55,14,3.93
+201100977,Abrey,Weakley,12,56,13,4.31
+201100978,Paige,Cassiday-Minnie,12,67,16,4.19
+201100979,Elizabeth,Scheurich,12,64,16,4.0
+201100983,Vincent,Hasty,10,16,4,4.0
+201100989,Ragen,Meinen,11,64,16,4.0
+201101006,Harley,Sheik,10,42,16,2.62
+201101034,Brandon,Delgado-Castellanos,10,45,16,2.81
+201101060,Heavenly,Collins,9,0,4,0.0
+201101090,Kyler,Buell-Thaxton,10,54,16,3.38
+201101092,Rylee,Adams,11,58,16,3.62
+201101096,Joseph,Hurst,10,31,14,2.21
+201101097,Alizabella,Meile,11,68,16,4.25
+201101104,Jeslyn,Swanson,10,60,16,3.75
+201101127,Baylee,Scott,12,19,8,2.38
+201101128,Gabrielle,James,10,61,16,3.81
+201101129,Damian,Cazares,9,14,4,3.5
+201101135,Izais,Coleman,11,32,16,2.0
+201101148,Analee,Lopez-Sanchez,10,61,16,3.81
+201101152,Giancarlo,Cab-Fajardo,11,54,16,3.38
+201101153,Josiah,Alvarenga,10,25,16,1.56
+201101156,Cruz,Soule,10,61,16,3.81
+201101158,Davyn,Moore,9,19,8,2.38
+201101167,Tyler,Brooks,10,48,16,3.0
+201101224,Skyler,White,11,23,13,1.77
+201101225,EmmaLee,Swopes,11,60,16,3.75
+201101227,Brecken,Graham,12,44,16,2.75
+201101228,Nate,Munson,12,60,15,4.0
+201101229,Lily,Abbey,12,52,12,4.33
+201101230,Wyatt,Milam,12,50,16,3.12
+201101231,Jayden,Aguinaga,12,34,11,3.09
+201101232,Lynlee,Massey,12,59,14,4.21
+201101241,Piper,Clawson,12,42,14,3.0
+201101244,Tayden,Schindler,12,35,16,2.19
+201101246,Hannah,Schandorf,12,52,13,4.0
+201101247,Haylea,Sampson,12,55,13,4.23
+201101248,Karson,Palmer,12,63,16,3.94
+201101249,Monica,Sebastian,12,63,16,3.94
+201101252,Aidan,Squires,12,16,11,1.45
+201101253,Zoey,Baker,12,53,15,3.53
+201101257,David,Gonzalez Salcedo,12,48,16,3.0
+201101258,Swea,Gootee,12,52,16,3.25
+201101259,Genevieve,Herrera,12,58,15,3.87
+201101261,Ophelia,Strecker,12,62,16,3.88
+201101262,Simon,Ramirez,12,38,17,2.24
+201101269,Isabella,Banta,11,19,17,1.12
+201101285,Georgia,Behrens,11,51,16,3.19
+201101286,Brody,Brumley,11,63,16,3.94
+201101288,Lauryn,Coursey,11,61,16,3.81
+201101289,Gabriella,Domingo-Matias,11,51,16,3.19
+201101292,Alaysia,Herbert,11,47,15,3.13
+201101294,Jaxston,Hess,11,55,16,3.44
+201101295,Airianna,Kendrick,11,41,16,2.56
+201101296,Brailee,King,11,39,16,2.44
+201101298,Kayden,Roberts,11,2,1,2.0
+201101299,Kruz,Torrez,11,40,16,2.5
+201101300,LeAnn,Van Wey,11,49,16,3.06
+201101301,Emmerson,Allen,12,59,16,3.69
+201101302,Traeh,Barton,12,14,16,0.88
+201101303,Henry,Castro,12,48,16,3.0
+201101307,Marlon,Flores Juan,12,30,17,1.76
+201101308,Jarrett,Hilario,12,49,16,3.06
+201101319,Marely,Escalante,12,43,15,2.87
+201101323,Braiden,Chaparro,12,35,17,2.06
+201101326,Zane,Estes,11,44,15,2.93
+201101327,Matthew,Sullivan,11,28,20,1.4
+201101328,Gadi,Agustin-Mejia,11,55,16,3.44
+201101334,Carson,Schenk,11,2,18,0.11
+201101335,Adrian,Reyes,11,2,2,1.0
+201101336,Izzy,Hayes,11,68,16,4.25
+201101337,Avery,Wilson,11,54,15,3.6
+201101338,Kolby,Berg,11,29,16,1.81
+201101345,Mateo,Andres Marcos,11,52,16,3.25
+201101346,Tayten,Blatchford,11,25,14,1.79
+201101347,Khloie,Brumley Graham,10,1,8,0.12
+201101348,Santiago,Castillo,11,49,16,3.06
+201101349,Braylinn,Curtis,11,54,16,3.38
+201101356,Anthony,Lopez-Hernandez,11,52,16,3.25
+201101357,Harper,Webb,11,56,14,4.0
+201101364,Hannah,Tempelaar,10,38,16,2.38
+201101369,Anthony,Moore,12,43,14,3.07
+201101376,Kristofer,DeLeon Oliveros,11,25,19,1.32
+201101377,Kimberly,Bahruth,11,47,16,2.94
+201101381,Liam,Lockwood,11,37,17,2.18
+201101382,Hever,Millan,11,29,16,1.81
+201101383,Michael,Nieto,11,20,16,1.25
+201101385,Owen,Oliver,11,18,17,1.06
+201101392,Andres,Valdovinos,11,27,8,3.38
+201101395,Wellsin,Angei,11,46,16,2.88
+201101400,Ashlee,Broce,12,53,12,4.42
+201101401,Jayleen,Zepeda Velazquez,11,64,16,4.0
+201101402,Andrew,Maus,12,30,10,3.0
+201101403,Riley,Daniels,11,65,16,4.06
+201101405,Diego,Hernandez Lopez,11,47,16,2.94
+201101408,Wyatt,Paton,11,70,16,4.38
+201101409,Jair,Navarrette,11,51,16,3.19
+201101417,Manuel,Tavarez,11,42,16,2.62
+201101419,Rogan,Pappan,11,65,17,3.82
+201101420,Javier,Ruiz,11,37,16,2.31
+201101423,Eylin,Gutierrez-Agustin,11,47,16,2.94
+201101426,Kason,Williams,11,37,16,2.31
+201101427,Reaghan,Hockenbury,11,28,10,2.8
+201101428,Eduin,Esquivel-Gutierrez,11,47,16,2.94
+201101429,Ana,Giles-Mendoza,11,38,16,2.38
+201101435,Journey,Dykes,11,72,16,4.5
+201101436,Hayley,Huffman,11,54,16,3.38
+201101437,Ruby,Kessinger,11,43,17,2.53
+201101442,Jaimen,Brumley,11,43,15,2.87
+201101445,Jonathan,Dorman,11,24,16,1.5
+201101447,Jordany,Barrios Herrera,11,52,16,3.25
+201101449,Cruz,Czaplinski,11,67,16,4.19
+201101450,Brodie,Trainer,11,0,8,0.0
+201101453,Tripp,Martin,11,2,2,1.0
+201101455,Miguel,Pedro-Sebastian,10,39,16,2.44
+201101470,Genesis,Figueroa-Munoz,11,48,16,3.0
+201101474,Taylor,Anders,10,16,11,1.45
+201101480,Riordan,Parker,10,38,16,2.38
+201101482,Zephyr,LeClair,10,59,16,3.69
+201101484,Ayleigh,Nixon,10,56,14,4.0
+201101485,Moises,Juarez,11,60,16,3.75
+201101488,Yasmin,Andres Montejo,11,33,15,2.2
+201101495,Andre,Canas,9,64,16,4.0
+201101497,Sydney,Cecil,11,58,15,3.87
+201101498,Juan,De La Cruz Us,11,51,16,3.19
+201101499,Ashley,Dorantes Molina,10,64,16,4.0
+201101500,Ethan,Drumm,10,36,16,2.25
+201101503,Naydelin,Garcia,10,72,17,4.24
+201101505,Tony,Ibarra Trujillo,10,27,16,1.69
+201101509,Darvin,Ortega,10,63,16,3.94
+201101510,Jada,Gage,10,56,16,3.5
+201101511,Meyli,Lopez Leon,10,47,16,2.94
+201101515,Grant,Beeson,10,48,18,2.67
+201101516,Lillian,McCaslin,10,42,16,2.62
+201101517,Addison,Millan,10,17,16,1.06
+201101519,Bella,Ramirez,10,18,16,1.12
+201101525,Jeffery,Smith,10,44,16,2.75
+201101528,Eva,Sobba,9,60,16,3.75
+201101535,Brayden,Hasty,10,56,16,3.5
+201101541,Clarenza,Hollins,10,50,16,3.12
+201101542,Colby,Vardy,11,59,16,3.69
+201101543,Cruz,Retana,10,42,16,2.62
+201101545,Arson,White,10,53,16,3.31
+201101625,Natalie,Townsend,10,34,16,2.12
+201101627,Traetyn,Tymony,10,28,16,1.75
+201101628,Jose,Villagomez,10,46,16,2.88
+201101629,Abigail,Wilbourn,11,20,9,2.22
+201101631,Skielee,Williamson,10,61,16,3.81
+201101635,Christopher,Ramirez,10,70,16,4.38
+201101636,Matthew,Colston,9,6,8,0.75
+201101643,Martin,Rocha,11,40,16,2.5
+201101645,Connor,Kilts,11,12,14,0.86
+201101650,Taygun,Lile,9,33,19,1.74
+201101652,Tyren,Beougher,10,21,17,1.24
+201101654,Yaretzi,Sanchez,10,62,16,3.88
+201101655,Exavier,Martin,10,39,16,2.44
+201101660,Paige,McPherson,11,55,16,3.44
+201101664,Madison,Linder,11,65,16,4.06
+201101666,Mary,Jimenez,10,22,17,1.29
+201101725,Devin,Jowers,9,47,16,2.94
+201101825,Daylen,Killen,10,41,16,2.56
+201101983,Keith,Lile,9,26,20,1.3
+201101993,Randy,Gomez Jose,11,22,15,1.47
+201101996,Desiree,Maldonado,10,8,15,0.53
+201102001,Kadi,Young,10,27,15,1.8
+201102010,Ariana,Valverde,12,9,16,0.56
+201102017,Genoveva,Rodriguez Elias,11,42,16,2.62
+201102020,Zathan,Meek,11,57,16,3.56
+201102031,Arturo,Leos,10,43,16,2.69
+201102037,Alajahna,Nissen,11,51,16,3.19
+201102049,Dawson,Billiter,10,48,16,3.0
+201102050,Repison,Modou,11,28,10,2.8
+201102053,Alex,Alcon Mejia,12,27,16,1.69
+201102064,Angelica,Lopez-Garcia,11,35,18,1.94
+201102074,Uzziel,Borges-Lopez,11,21,17,1.24
+201102118,Melinda,Velasquez Pastor,11,64,16,4.0
+201102119,Jagger,Jones,10,46,16,2.88
+201102125,Ayden,Howard,10,1,12,0.08
+201102127,Jaxon,Vickers,10,67,16,4.19
+201102128,Isabela,Tomas-Diego,10,41,16,2.56
+201102132,Samuel,Ward,10,64,16,4.0
+201102134,Liam,Wright,10,3,15,0.2
+201102136,Jesus,Lopez-Garcia,11,55,16,3.44
+201102147,Miley,Valencia,10,18,16,1.12
+201102150,Domingo,Velasquez-Pastor,10,20,16,1.25
+201102154,Jose,Tercero Lopez,10,34,16,2.12
+201102155,Adriana,Monroy-Roblero,10,47,16,2.94
+201102156,Ralee,Prosser,10,47,16,2.94
+201102168,Mauricio,Sebastian-Juan,10,30,16,1.88
+201102187,Redner,Lokopwe,9,34,17,2.0
+201102188,Yazid,Delgado,9,53,17,3.12
+201102241,Aiden,Ripley,11,49,16,3.06
+201102262,Yazmin,Tovar,12,44,14,3.14
+201102284,Logan,Ripley,10,51,16,3.19
+201102311,Haylee,Talbert,9,62,16,3.88
+201102352,Brooklyn,Davis,9,8,2,4.0
+201102365,Kinsey,Casner,9,62,16,3.88
+201102396,Tania,Calvillo Flores,10,29,16,1.81
+201102417,Blake,Casner,12,24,17,1.41
+201102425,Davie,Palmer,9,43,16,2.69
+201102427,Joslynne,Froman,10,44,16,2.75
+201102436,Luis,Hernandez de la Cruz,10,60,16,3.75
+201102453,Ronaldo,Hernandez Ponce,10,45,16,2.81
+201102454,Hector,Hernandez Ponce,9,58,16,3.62
+201275114,Brook,Farris,11,64,14,4.57
+201278104,Alicia,Duarte-Gallegos,10,58,16,3.62
+201278105,Maddon,Giles,9,60,16,3.75
+201278106,Ariel,Harbert,10,74,20,3.7
+201278115,Haylee,McCorgary,11,61,14,4.36
+201278116,Hayden,McCorgary,9,58,15,3.87
+201278120,Cain,Mendez,9,55,16,3.44
+201278133,Fernando,Andres Sebastian,11,31,16,1.94
+201278154,Reagan,Murphree,11,56,16,3.5
+201358001,Aspen,Colquhoun,11,63,16,3.94
+201358003,Kody,Quint,9,56,14,4.0
+201366007,Carlos,Ambriz,12,28,11,2.55
+201366009,Lilliann,Sanderholm,12,64,16,4.0
+201366013,Bailey,Crull,12,56,21,2.67
+201366014,Chelsea,Crull,12,35,13,2.69
+201366015,Landon,Burr,12,49,15,3.27
+201366016,Allison,Wirth,12,20,13,1.54
+201366021,Jenna,Uden,11,66,16,4.12
+201366101,D'Angelo,Jackson,10,40,17,2.35
+201370100,Lein,Beaty,9,20,16,1.25
+201470002,Harper,Moore,9,64,16,4.0
+201470004,Mallory,Moore,10,74,19,3.89
+201470006,Emma,Adams,9,51,16,3.19
+201470007,Cadence,Wells,10,57,16,3.56
+201470011,Alexis,Cab Fajardo,10,58,16,3.62
+201470012,Alana,Musgrove,9,46,16,2.88
+201470015,Katelynn,Squires,9,59,16,3.69
+201470017,Jagger,Young,10,30,15,2.0
+201470018,Clark,Kirk,9,64,16,4.0
+201470019,Alexzander,Ruiz,9,12,4,3.0
+201470020,Rylan,Jagels,9,38,16,2.38
+201540001,Francisco,Alvarado Andres,11,28,16,1.75
+201540004,Braxtyn,Hilario,11,51,16,3.19
+201540007,Harloh,Roberson,11,61,14,4.36
+201540012,Kinley,Mendoza,12,61,13,4.69
+201540016,Saniyah,Henderson-Johnson,12,19,10,1.9
+201540017,Tariyah,Henderson,11,60,16,3.75
+201540022,Isabella,Retana,10,65,16,4.06
+201540024,Quinton,Snow,10,47,16,2.94
+201540025,Riley,Tennant,10,53,16,3.31
+201540029,Jayden,Cutright,10,68,16,4.25
+201540030,Hagan,Roberson,9,47,16,2.94
+201540031,Zackry,Mosier,10,58,16,3.62
+201540033,Rylan,King,10,61,16,3.81
+201540035,Tatum,Heilig,10,51,16,3.19
+201540037,Chloe,Cales,10,69,16,4.31
+201540038,Tatyn,Porter,10,63,16,3.94
+201540039,Ava,McAnulty,10,61,16,3.81
+201540041,Maci,Sumpter,10,64,16,4.0
+201540042,Landon,Bedolla,10,46,16,2.88
+201540044,Emma,Cook,10,38,16,2.38
+201540045,Welly,Vongkham,10,54,16,3.38
+201540046,Angel,Martinez-Chavez,10,37,16,2.31
+201540047,Hayden,Russell,10,36,12,3.0
+201540049,Rorye,McKimson,10,55,16,3.44
+201540054,Kynleigh,Hilario,10,60,16,3.75
+201542004,Alvaro,Ardon-Barrios,10,27,16,1.69
+201542005,Abraham,Aviles Perez,10,3,12,0.25
+201542006,Arianna,Dieguez,10,33,16,2.06
+201542007,Brian,Dye,10,59,16,3.69
+201542011,Adalyn,Floyd,10,43,16,2.69
+201542012,Ava,Giger,10,57,16,3.56
+201542013,Jaedyn,Gregory,11,26,16,1.62
+201542014,Audrina,Hibbs,10,25,16,1.56
+201542015,Brayden,Isakson,10,19,6,3.17
+201542017,Trake,Kent,10,52,16,3.25
+201542018,Devin,McDonald,10,51,16,3.19
+201542019,Trevin,Miller,10,34,16,2.12
+201542020,Jazmin,Morando,10,20,15,1.33
+201542021,Kayley,Munoz,11,51,15,3.4
+201542022,Noah,Parr,10,61,16,3.81
+201542025,Kylinn,Ryan,10,37,16,2.31
+201542028,Shae,Smithwick,11,59,16,3.69
+201542029,Kindell,Steiner,10,25,17,1.47
+201542032,Esa,Wyckoff,10,69,16,4.31
+201542041,Kyler,Green,9,28,18,1.56
+201542044,Nathan,Becker,11,9,16,0.56
+201542045,Alyna,Twilleger,11,49,17,2.88
+201542046,Kloie,Jamison,10,21,14,1.5
+201542049,Juan,Martin Ramirez,10,1,15,0.07
+201542050,Eric,Medina,10,46,16,2.88
+201542051,Arvin,Otto,10,30,15,2.0
+201542052,Madphill,Phillip,10,22,15,1.47
+201542053,Hunter,Nissen,10,26,17,1.53
+201542056,Alina,Brown,10,30,16,1.88
+201542058,Jose,Reyes,12,24,11,2.18
+201542066,Briana,Carson,10,48,16,3.0
+201542073,Jenifer,Francisco Andres,11,47,16,2.94
+201542076,Stephen,Kirtley,9,58,16,3.62
+201543001,Blaze,Schwartz,10,40,16,2.5
+201543026,Kadyn,Pool,12,55,14,3.93
+201543027,Kyiah,Pool,12,59,15,3.93
+201543037,Cadence,May,10,56,16,3.5
+201543048,Brianna,Kidd,10,32,17,1.88
+201543049,Isaiah,Lamb,11,51,16,3.19
+201543050,Jacob,Hutchinson,10,30,17,1.76
+201543057,Chase,Maris,12,55,14,3.93
+201543058,Ceejay,Maris,12,59,16,3.69
+201543059,Abilene,Zapata,10,52,16,3.25
+201543061,Isaac,Ramirez,11,43,16,2.69
+201548009,Zekiel,Edgar,12,4,18,0.22
+201548012,Shane,Niehoff,11,46,16,2.88
+201548013,Lillian,Seaton,11,68,16,4.25
+201548014,Joshua,Porterfield,11,39,16,2.44
+201548016,Aaliyah,Castillo,10,49,16,3.06
+201548018,Grace,Coulston,10,67,16,4.19
+201548019,Scarlett,Kilts,10,68,16,4.25
+201548020,Lux,Mills,10,35,16,2.19
+201548022,Yeslina,Romero-Marroquin,10,56,16,3.5
+201548024,Tuesday,Farmer,10,38,16,2.38
+201548025,Bradley,Lopez-Lopez,10,42,16,2.62
+201548027,Blake,Porterfield,10,5,16,0.31
+201548029,Dante,Cohrs,10,41,16,2.56
+201548030,Morgan,Hills,10,48,16,3.0
+201548032,Brake,Ruyle,9,50,16,3.12
+201548034,Dezi,Orvis,10,54,16,3.38
+201548035,Bentlea,Sampson,10,61,16,3.81
+201548037,Abigail,Bowker,10,64,16,4.0
+201548038,Natalie,Fleig,10,70,16,4.38
+201548042,Germmy,Hernandez-Lopez,10,45,16,2.81
+201548046,Anden,Engelking,10,57,16,3.56
+201548047,Hatcher,Jameson,10,7,12,0.58
+201548052,Magaly,Garcia,10,21,16,1.31
+201548053,Aiden,Linder,9,49,16,3.06
+201548061,Michael,Richard,9,14,8,1.75
+201548064,Kennedy,Barnes,12,57,12,4.75
+201548067,Olivia,Kirtley,11,32,19,1.68
+201558002,Zoe,Wells,11,62,16,3.88
+201558010,Ava,Headrick,11,66,16,4.12
+201558013,Jolie,Williams,11,58,15,3.87
+201558014,Lily-Ann,King,9,24,8,3.0
+201558016,McCoy,Lund,9,62,16,3.88
+201558018,Elliot,Morgan,9,62,16,3.88
+201558019,Amy,Lowry,12,48,16,3.0
+201566008,Stratton,Bruce,11,45,16,2.81
+201566009,Raul,Garcia,11,36,18,2.0
+201566011,Tucker,Sparks,11,50,16,3.12
+201566013,Zane,Burke,11,31,19,1.63
+201566019,Briley,Rowe,11,60,16,3.75
+201566021,Troy,Charley,11,58,10,5.8
+201566022,Tamira,Charley,12,63,14,4.5
+201566028,Marissa,Mills,12,63,14,4.5
+201570001,Gracen,White,9,21,15,1.4
+201570004,Timothy,Walker-Leverenz,9,40,15,2.67
+201570005,Pierce,Harrod,9,36,16,2.25
+201570006,Isabel,Torres,9,55,16,3.44
+201570007,Axle,Cohrs,9,48,16,3.0
+201570008,Ember,Wilcher,9,50,16,3.12
+201570011,Victor,Castro-Veloz,9,42,16,2.62
+201570012,Lillyanna,Billiter,9,52,16,3.25
+201570014,Cooper,Sumpter,9,58,16,3.62
+201570015,Jaxton,Banta,9,23,20,1.15
+201570016,Yadeli,Sanchez,9,57,16,3.56
+201570017,Joey,Pacheco,9,30,18,1.67
+201570019,Tyler,Ryan,9,33,18,1.83
+201570020,Areiana,Gatewood,9,44,16,2.75
+201570021,Melany,Barron,9,64,16,4.0
+201570023,Carmen,Galdamez Barron,9,63,16,3.94
+201570025,Landree,Meeks,9,39,15,2.6
+201570028,Tyler,Cribbs,9,1,10,0.1
+201571004,David,Cain,9,52,16,3.25
+201571005,Harley,Daniels,9,40,17,2.35
+201571010,Grant,Fultz,9,60,16,3.75
+201571011,Halona,Horton,10,51,16,3.19
+201571012,Tyler,McDonald,10,77,18,4.28
+201571015,Braxton,Sheehy,9,51,16,3.19
+201571018,Madison,Hess,9,64,16,4.0
+201571022,Jeffrey,Perez Rodriguez,9,38,16,2.38
+201571024,Lexi,Andres Sebastian,9,58,16,3.62
+201571025,Melakai,Tempelaar,9,37,16,2.31
+201571029,David,Daniels,9,21,16,1.31
+201571032,Melannie,Watson,9,61,16,3.81
+201571033,Jose,Zetino-Lorenzo,10,68,16,4.25
+201571034,Arelii,Anguiano-Jose,9,51,16,3.19
+201571035,Jimi,Brown,10,16,9,1.78
+201571038,Esmeralda,Jimenez,9,35,16,2.19
+201571039,Vianey,Munoz Andres,9,60,16,3.75
+201571041,Robert,Smith,9,14,5,2.8
+201571042,Tyanna,Watson Jackson Sharp,9,48,18,2.67
+201571043,Marta,Zetino-Lorenzo,9,59,16,3.69
+201571047,Colton,Curran,10,52,16,3.25
+201571049,Lyrik,Checotah,9,45,16,2.81
+201571051,Troy,Twilleger,9,42,16,2.62
+201571053,Sergio,Rangel Moran,9,46,16,2.88
+201571056,Joaquin,Sifuentes Rodriguez,10,58,16,3.62
+201571060,Daunte,Morris,9,31,18,1.72
+201571064,Brianna,Trainer,9,42,16,2.62
+201571067,Preston,Hess,9,23,18,1.28
+201571069,Ulysses,Giles Obregon,9,60,16,3.75
+201571070,Juan,Arcos Obregon,9,59,16,3.69
+201640001,Hannah,Seymour,10,62,16,3.88
+201640004,Hadassah,Knight,10,6,8,0.75
+201640009,Kadynce,Tyler,11,38,16,2.38
+201640011,Corrie,Allen,11,55,15,3.67
+201640013,Harper,Whetstone,12,43,14,3.07
+201640015,Mark,Coulter,9,47,16,2.94
+201640016,Jaden,Darnall,9,49,16,3.06
+201640017,Yoselin,Gutierrez-Agustin,9,47,18,2.61
+201640019,Chana,Knight,9,26,16,1.62
+201640021,Olivia,Oliver,9,57,16,3.56
+201640022,Kevin,Pablo Funes,9,53,16,3.31
+201640023,Peyton,Tennant,9,61,16,3.81
+201640024,Dante,Valdovinos,9,48,16,3.0
+201640025,Dylan,Valdovinos,9,40,18,2.22
+201640026,Chayden,Wesbrook,9,64,16,4.0
+201640027,Trooper,Chalmers,9,39,16,2.44
+201640028,Trinity,Erwin,9,61,16,3.81
+201640032,Shadrick,Bruce,9,49,16,3.06
+201640034,Draven,Rohr,9,62,16,3.88
+201640040,Santiago,Gallegos,9,64,16,4.0
+201640042,Jocelyn,Maldonado Guillen,11,47,16,2.94
+201640048,Gracelan,Dixon,12,50,14,3.57
+201642005,Halie,Garison,11,41,16,2.56
+201642006,Addison,Garison,10,40,16,2.5
+201642014,Abbiegail,Williams,10,65,16,4.06
+201642015,Brooklynn,Chaney,10,31,16,1.94
+201642016,Caitlin,Hamilton,10,16,16,1.0
+201642018,Rose,Beach,10,19,15,1.27
+201642019,Michael,Kuhn,9,34,16,2.12
+201642021,Alexis,Lower,9,62,16,3.88
+201642022,Payton,Tridle,9,38,16,2.38
+201642023,Yadira,Morando,9,34,20,1.7
+201642024,Levi,Whatley,9,61,16,3.81
+201642025,Eladio,Delgado,9,19,10,1.9
+201642027,Yenedhit,Barrios-Herrera,9,49,16,3.06
+201642028,Kasen,Brooks,9,38,15,2.53
+201642031,Addalynn,Byrd,9,61,16,3.81
+201642032,Mikah,Charley,9,13,8,1.62
+201642035,Eli,Medina,9,17,20,0.85
+201642036,Brylan,Smith,9,32,16,2.0
+201642037,Isai,Castillo,9,12,10,1.2
+201642038,Gabrielle,Erwin,9,39,16,2.44
+201642042,Jefferson,Figueroa,9,63,16,3.94
+201642048,Felix,Francisco Andres,10,18,15,1.2
+201642050,Xavier,Carrasco,9,20,16,1.25
+201642054,Matthew,White,9,64,16,4.0
+201642057,Isabella,Sivils,9,41,16,2.56
+201642058,May Ly,Hoang,11,63,16,3.94
+201642065,Cruz,Vasquez,9,35,16,2.19
+201642070,Isaiah,Thompson,10,34,16,2.12
+201643001,Cayden,Adams,10,36,16,2.25
+201643008,Bryan,Perez-Mejia,10,26,16,1.62
+201643011,Victoria,Froese Galvan,10,12,8,1.5
+201643013,Davon,Posey,9,44,15,2.93
+201643014,Hadley,Musson,12,64,15,4.27
+201643018,Conner,Tavarez,10,5,18,0.28
+201643021,Abraham,Chan,9,40,18,2.22
+201643023,Addison,Evans,9,55,16,3.44
+201643024,Jaiden,Harris,9,37,16,2.31
+201643026,Talon,Morton,9,57,16,3.56
+201643027,Bo,Nicely,9,45,18,2.5
+201643028,Justis,Walker,9,35,16,2.19
+201643030,Maddox,Wilson,9,62,16,3.88
+201643033,Kenlie,Coble,9,49,16,3.06
+201643036,Cristina,Lopez-Garcia,9,62,16,3.88
+201643038,Joshua,Abrams,12,59,14,4.21
+201643040,Briggs,Buckingham,9,64,16,4.0
+201643047,Addyson,Puchalla,9,52,16,3.25
+201643050,Olivia,Lamb,9,49,16,3.06
+201643055,Emilie,Proctor,10,2,1,2.0
+201643057,Ethan,Proctor,10,2,1,2.0
+201648001,Peighton,West,10,58,16,3.62
+201648002,Brody,Rein,10,29,16,1.81
+201648005,Caitlyn,Echols,10,25,11,2.27
+201648006,Hadley,Smyer,10,53,16,3.31
+201648010,Kobe,Cockrell,12,51,15,3.4
+201648011,Gianna,Herrera,10,66,16,4.12
+201648012,Taliyah,Moore,9,59,16,3.69
+201648014,Brett,Baker,9,37,16,2.31
+201648016,Alainna,Divine,9,54,16,3.38
+201648017,Haven,Gutierrez,9,61,16,3.81
+201648018,Westin,Hamm,9,62,16,3.88
+201648019,Mason,Headrick,9,63,16,3.94
+201648020,Billie,Irvin,9,44,11,4.0
+201648021,Hayden,Jarvis,9,54,16,3.38
+201648022,Cason,Massey,9,61,16,3.81
+201648023,Cooper,Massey,9,54,16,3.38
+201648025,Kailee,Ochoa,9,47,16,2.94
+201648026,Ella,Perkins,9,60,15,4.0
+201648028,Clarissa,Whyde,9,50,16,3.12
+201648029,Erhan,Walker,9,49,16,3.06
+201648030,Keila,Jose Ramirez,9,52,16,3.25
+201648032,Materin,Stephen,9,54,16,3.38
+201648033,Pyrce,Graham,9,45,17,2.65
+201648034,D,Kamier,11,20,16,1.25
+201648043,Aianna,Estrada,10,48,16,3.0
+201648045,Aura,Marquin Mendoza,11,38,16,2.38
+201648048,Mayvelin,Vega,11,24,16,1.5
+201658001,Jack,Richardson,10,70,16,4.38
+201658002,Jackson,Schuetz,10,70,16,4.38
+201658003,Carlie,Schuetz,10,44,16,2.75
+201658004,Ella,Munson,10,64,16,4.0
+201658005,Teague,Munson,10,66,16,4.12
+201658006,Isabella,Blatchford,10,54,16,3.38
+201658008,Reed,Clawson,10,57,16,3.56
+201658012,Jesse,Swanson,10,28,16,1.75
+201658013,Elijah,Keeney,10,59,16,3.69
+201658017,Shane,Williams,10,9,16,0.56
+201666001,Marshall,Puchalla,10,24,15,1.6
+201666008,Mason,Earls,12,50,14,3.57
+201666009,Briggs,Terrill,10,56,16,3.5
+201666010,Adelya,Ball,10,70,16,4.38
+201666012,Camden,Vickery,10,58,16,3.62
+201666013,Brooklyn,Williams,10,13,16,0.81
+201666016,Angel,Vazquez Herrera,10,56,16,3.5
+201666017,Neison,Johnmark,9,17,7,2.43
+201666019,Tristen,Charley,10,41,16,2.56
+201666022,Mayla,Holden,10,70,16,4.38
+201666033,Joshua Brexton,McVey,12,45,17,2.65
+201666036,Briley,Rose,10,52,16,3.25
+201671007,Carmen,Brown,9,42,16,2.62
+201671017,Donnie,Falkenberg Three,9,26,16,1.62
+201671028,Elijah,Kramer,9,8,20,0.4
+201671034,Jasper,Meyers,9,32,18,1.78
+201671043,Esmeralda,Ramirez,9,37,16,2.31
+201671053,Xitlaly,Vazquez Herrera,9,44,16,2.75
+201671062,Oliver,Andrews,9,17,20,0.85
+201740003,Anthony,Whetstone,9,64,16,4.0
+201740006,Carlos,Lares Ramos,11,14,15,0.93
+201740007,Michael,Lares Ramos,11,11,16,0.69
+201740015,Brayden,Whitley,9,38,16,2.38
+201740023,Miguel,Francisco Alonzo,9,49,16,3.06
+201740040,Lily,Meza Underhill,9,37,18,2.06
+201740043,Mia,Ramirez,11,36,16,2.25
+201742001,Serenity,Cyrus,9,59,17,3.47
+201742003,Kylie,Bissell,9,46,16,2.88
+201742004,Alessia,Hatcher,9,59,16,3.69
+201742005,Nahni,Creveling,9,39,18,2.17
+201742008,Edna,Ortega,12,26,14,1.86
+201742021,Reynaldo,Francisco Francisco,9,49,16,3.06
+201742022,Quintin,Monroe,11,21,9,2.33
+201742023,Armina,Sawej,10,60,16,3.75
+201742029,Milena,Mendez Perez,9,22,6,3.67
+201742040,Victor,Pu Sanchez,10,32,17,1.88
+201742041,Fernando,Pu Sanchez,10,28,16,1.75
+201742042,Johnny,Pu Sanchez,12,16,4,4.0
+201743001,Taylor,Harbert,12,6,2,3.0
+201743002,Christian,Cristobal Rodriguez,9,59,16,3.69
+201743007,Jocelynn,Madewell,12,23,15,1.53
+201743021,Aaron,Hollins,9,49,16,3.06
+201743032,Maria,Tum-Larios,11,45,16,2.81
+201743036,Juana,Hernandez-Castro,10,22,15,1.47
+201748002,Zachary,Pieper,11,76,17,4.47
+201748003,Draphus,Epps,11,58,16,3.62
+201748005,Miranda,Carter,9,39,16,2.44
+201748006,MaKaiden,Schmidt,9,37,16,2.31
+201748007,Colton,Trenary,10,66,16,4.12
+201748008,Emi,Trenary,9,63,16,3.94
+201758003,James,Cole,12,56,15,3.73
+201758006,Leah,Duncan,10,47,16,2.94
+201758009,Athena,Robinson,12,56,15,3.73
+201766001,Kailynn,Hewitt,9,64,16,4.0
+201766002,Saul,Figueroa,9,20,20,1.0
+201766006,Keaghan,Rogers,11,43,16,2.69
+201766007,Aubrey,Johnson,9,52,16,3.25
+201766008,Sara,Spears,9,49,16,3.06
+201766010,Kaden,Rikat,11,47,16,2.94
+201766027,Elizabeth,Garcia,11,48,16,3.0
+201840055,Talea,Viegra,12,34,16,2.12
+201840077,Faith,Davis,10,31,16,1.94
+201840078,Samuel,Davis,12,27,11,2.45
+201840081,Alejandro,Francisco-Andres,10,16,4,4.0
+201840088,Ashley,Crawford,9,17,12,1.42
+201840089,David,Crawford,11,25,13,1.92
+201840090,Julie,Crawford,12,57,16,3.56
+201842001,Kyndol,Gonzales,10,70,16,4.38
+201842045,Jesus,Penaloza,11,40,10,4.0
+201842046,Hector,Lopez Garcia,11,50,16,3.12
+201842055,Frederick,Bergkamp,10,69,16,4.31
+201843001,Carlos,Lopez-Rodriguez,11,30,16,1.88
+201843004,Marco,Lozano,9,63,16,3.94
+201843007,Kooper,Chattam,9,34,16,2.12
+201843018,Layla,Wakefield,9,47,16,2.94
+201843019,Sophie,Wakefield,11,46,15,3.07
+201843064,Zadkiel,Pacheco Magallanes,9,46,16,2.88
+201848002,Katherine,Valey,11,48,16,3.0
+201848005,McKinley,Huddleston,10,62,16,3.88
+201848025,Juana,Rodriguez Solis,9,49,16,3.06
+201848033,Guinness,Gruebel,10,30,16,1.88
+201848034,Yaslin,Hernandez-Reyes,11,43,16,2.69
+201858006,Christopher,Overall,10,58,16,3.62
+201858026,Elijah,Galindo,11,39,15,2.6
+201866009,Brylee,Barbour,10,62,16,3.88
+201866053,William,Stansbury,10,52,16,3.25
+201866064,Shihan,Fang,11,71,16,4.44
+201866070,Adriana,Sermeno Martinez,11,24,14,1.71
+201940013,Alexander,Smith,11,60,16,3.75
+201940016,Zoee,Allison,10,24,16,1.5
+201940027,Riley,Schultz,9,31,10,3.1
+201940041,Gunner,Newton,9,43,16,2.69
+201943021,Diego,Rodriguez-Us,10,36,16,2.25
+201943022,Eduardo,Rodriguez-Us,9,33,16,2.06
+201943028,Jaiven,Sunderland,11,39,14,2.79
+201943029,Kalven,Sunderland,10,37,14,2.64
+201943033,Mateo,Andres Alonzo,12,32,16,2.0
+201948001,Ester,Ixparpuac Leon,11,46,16,2.88
+201948024,Noah,Longoria,10,49,16,3.06
+201954034,Breanna,Campbell,12,6,2,3.0
+201958008,Layla,Weatherford,11,63,15,4.2
+201958009,Hope,Hankins,11,64,16,4.0
+201958025,Favian,Cortez,9,26,16,1.62
+201966004,Keneth,Vallejos Reyes,11,21,16,1.31
+201966005,Daylee,Vallejos Reyes,12,46,15,3.07
+201966039,Norma,Torres Izara,9,45,15,3.0
+201966041,Kyndall,Baker,9,4,2,2.0
+202040114,Elvin,Gutierrez Madrid,9,22,16,1.38
+202040115,Dulce,Villatoro Juarez,9,62,16,3.88
+202040117,Andrew,Vowell,11,30,16,1.88
+202040119,Josi,Moore,10,66,16,4.12
+202040120,Jace,Moore,9,44,16,2.75
+202042104,Angel,Guzman,11,65,16,4.06
+202042105,Priscilla,Guzman,9,22,6,3.67
+202042141,Juan,Gonzalez,9,35,14,2.5
+202043111,Gracie,Phillips,10,35,16,2.19
+202043119,Diana,Espericueta Gonzalez,11,45,16,2.81
+202043220,Michelle,Espericueta Gonzalez,10,44,16,2.75
+202048108,Evan,Chaney,9,59,16,3.69
+202048116,Tessa,Evans,10,48,16,3.0
+202048117,Christian,Evans,11,38,16,2.38
+202054001,Kolby,Quint,12,55,14,3.93
+202054002,Meka,Jennings,12,61,14,4.36
+202054003,Mariaelena,Leyva,12,49,15,3.27
+202054009,Alexander,Casas,12,28,16,1.75
+202054025,Eligah,Reno,12,2,7,0.29
+202054032,Espyn,Chaney,12,60,13,4.62
+202054034,Kyson,Warford,12,0,8,0.0
+202054042,Elisha,Tackett,12,16,4,4.0
+202054064,Jackson,Frye,12,42,16,2.62
+202054070,Breianna,Braley,12,47,14,3.36
+202058009,Brianna,Burnett,11,4,14,0.29
+202066002,Camila,Casas,10,23,15,1.53
+202066013,Taeley,Rider,9,53,16,3.31
+202066058,Landy,Frye,10,40,16,2.5
+202066060,Rebekkah,Braley,11,36,16,2.25
+202140003,Mercedes,Vasser,10,35,16,2.19
+202140030,Cara,Zimmerman,10,59,16,3.69
+202142003,Anderson,Lopez,10,25,15,1.67
+202142006,Rosa,Leyva,10,62,16,3.88
+202143055,Jarrett,Schwartz,9,44,16,2.75
+202143056,Austin,Schwartz,9,59,16,3.69
+202143063,Karis,Brewer,10,70,16,4.38
+202148012,Madison,Martens,10,62,16,3.88
+202148022,Khloe,Manuel,9,57,16,3.56
+202148027,Jaden,Ruff,9,47,16,2.94
+202154001,Chase,Norwood,11,69,16,4.31
+202154002,Anna-Lea,Monroe,11,67,16,4.19
+202154011,Gladys,Vasser,12,14,7,2.0
+202154018,Mateo,Mateo Pascual,11,23,16,1.44
+202154026,Jareth,Froncek,10,0,7,0.0
+202154028,Andy,Castro Tapia,11,30,16,1.88
+202154029,Alexander,Castro Tapia,12,56,16,3.5
+202154032,Evany,Rodriguez,11,39,15,2.6
+202154039,Loriell,Gervais,11,36,17,2.12
+202158020,Jeremy,Moomey,9,12,8,1.5
+202166025,Greidys,Navarrete-Fuentes,10,25,16,1.56
+202240029,Lillie,Pace,9,50,16,3.12
+202242028,Jimatlee,Setile,9,22,8,2.75
+202248007,Darius,Carson,9,50,16,3.12
+202248013,David,Martin,9,23,20,1.15
+202254001,Jaycie,Larson,10,58,16,3.62
+202254005,Drayden,Camp,10,45,16,2.81
+202254007,Justyce,Carson,12,63,16,3.94
+202254009,Paul,Lyman,12,66,17,3.88
+202254015,Alexandra,Wilson,10,6,8,0.75
+202254016,Sarah,Wilson,12,20,16,1.25
+202254018,Skyler,Bangle,10,42,16,2.62
+202254019,Jaxson,Jackson,11,66,16,4.12
+202254023,Zack,Peters,11,41,17,2.41
+202254030,Gerson,De Leon Torres,12,29,19,1.53
+202254032,Cameren,McCandless,11,33,16,2.06
+202254033,Kaiden,Norman,12,45,16,2.81
+202254034,Marta,Morales Ortiz,10,29,8,3.62
+202254041,Cesar,Belland,10,16,16,1.0
+202254042,Milo,Vasicek,10,3,9,0.33
+202254044,Addison,Mapel,12,44,14,3.14
+202254045,Donavan,Nasworthy,10,37,16,2.31
+202254046,Erael,Morales-Ortiz,10,53,16,3.31
+202254052,Melisia,Pascual Juan,11,58,16,3.62
+202254057,Marissa,Crawford,12,9,10,0.9
+202254058,Charly,Vega,10,61,16,3.81
+202254059,Zarah,Vega,11,58,16,3.62
+202254060,Brayden,Adams,10,58,16,3.62
+202254063,Christopher,Lawrence,12,29,14,2.07
+202254064,Faith,Dickerson,12,39,12,3.25
+202256010,Carlos,Herrera Rodas,12,7,2,3.5
+202256065,Franklin,Matias Gomez,12,3,9,0.33
+202258006,Prestian,McDade,9,29,16,1.81
+202258009,Paula,Gomez Gomez,9,40,16,2.5
+202258017,Jaydon,Dreher,9,19,16,1.19
+202266026,Damyan,Rife,9,51,16,3.19
+202354001,Asher,Marchitell,9,58,16,3.62
+202354003,Thomas,Loveland,9,64,16,4.0
+202354004,Lucinda,Loveland,11,8,2,4.0
+202354006,Nicholas,Fearneyhough,10,20,16,1.25
+202354007,Alex,Fearneyhough,10,27,16,1.69
+202354008,Samuel,Lewis,10,51,16,3.19
+202354009,Lillian,Grace,10,72,17,4.24
+202354011,Hope,Rodriquez,11,66,16,4.12
+202354013,Katelyn,Hay,11,71,16,4.44
+202354014,Reggenald,Pope,9,52,16,3.25
+202354016,Arvada,Durham,11,68,16,4.25
+202354017,Malia,Hibbs,11,27,16,1.69
+202354018,Aveline,Viravong,9,47,16,2.94
+202354021,Jeremy,Durham,9,60,16,3.75
+202354023,Lucus,Crawford,9,11,4,2.75
+202354027,Elder,Vega Mencos,10,34,16,2.12
+202354028,Maliyah,Bell,11,55,16,3.44
+202354029,Brandon,Lopez-Hernandez,9,5,20,0.25
+202354033,Rylee,Garrison,11,9,10,0.9
+202354036,Juana,Espino Rocha,11,38,16,2.38
+202354038,Katelyn,Seaton,9,58,15,3.87
+202354043,Angel,Walters-Hewitt,9,35,16,2.19
+202354046,Jacob,Clark,10,3,2,1.5
+202354051,Dany,Lucas Escobar,11,42,16,2.62
+202354052,Melany,Lucas Escobar,9,54,16,3.38
+202356019,Yazmin,Badillo,12,36,16,2.25
+202356053,Ruby,Sanchez,12,38,18,2.11
+202400068,Peyton,Nichols,12,18,6,3.0
+202400087,Addison,Ledbetter,11,0,6,0.0
+202400118,Gissell,Martinez Amaya,12,30,13,2.31
+202400119,Nalayiah,Grimes,9,23,8,2.88
+202400120,Sofia,Martinez Amaya,10,54,14,3.86
+202400123,Angie,Amaya-Azurdia,12,11,4,2.75
+202400127,Wilbert,Suazo,9,26,8,3.25
+202400141,Madyson,Snow,10,57,16,3.56
+202400196,Emily,Lozano Pardo,10,26,9,2.89
+202400220,Emily,West,11,49,14,3.5
+202400328,Dereck,Torres,12,18,20,0.9
+202400332,Isaias,Echeverria Rodgriguez,10,72,18,4.0
+202454006,Isaiah,Reyes,10,35,16,2.19
+202454007,Ivan,Reyes,9,43,16,2.69
+202454011,Aaron,Dozier,10,13,15,0.87
+202454012,Kohen,Godfrey,10,37,16,2.31
+202454013,Kross,Godfrey,9,37,16,2.31
+202454015,Jaydne,Alley,9,29,16,1.81
+202454021,Jordyn,King,10,15,9,1.67
+202454023,Jesus,Aguilar-Tepancalco,9,15,16,0.94
+202454027,Kailynn,Martineau,9,48,16,3.0
+202454030,Layterin,Angei,9,53,15,3.53
+202456002,Isaiah,Davis,11,65,16,4.06
+202456003,Bobolynn,Hetti,12,17,17,1.0
+202456004,Addison,Anstine,11,77,18,4.28
+202456012,Mila,Sims,12,51,13,3.92
+202456017,Laila,Garcia,11,42,16,2.62
+202456020,Keirin,Hernandez Flores,12,42,15,2.8
+202456022,Julia,Lopez Romero,11,53,16,3.31
+202456023,Catalina,Lopez De La Cruz,12,63,16,3.94
+202456029,Fernando,Hernandez Valenzuela,12,52,16,3.25
+202456031,Clinton,Dozier,10,5,8,0.62
+202456032,Cinthia,Calvillo Flores,12,40,16,2.5
+202456034,Dionicia,Rodriguez Muz,12,38,16,2.38
+202456039,Ronaldo,Francisco Francisco,12,30,16,1.88
+202456041,Aracely,Perez Andres,11,45,16,2.81
+202456043,Santos,Juarez Lorenzo,12,1,8,0.12
+202456044,Paulina,de la Cruz Mejia,12,61,20,3.05
+202456045,Matias,Manuel Diego,11,29,16,1.81
+202456048,Tomas,Alonzo Guico,12,56,16,3.5
+202456050,Cheyenne,Franks,10,16,8,2.0
+202456051,Kayson,Gleason,12,63,16,3.94
+202456054,Luzely,Castaneda Castro,11,31,16,1.94
+202456056,Fredy,Gamas Raymundo,12,8,8,1.0
+202456057,Juana,Gaspar Juan,12,59,16,3.69
+202456061,Conner,Harris,12,56,15,3.73
+202456062,Aleigha,Thompson,12,49,16,3.06
+202526004,Roni,Batz Cruz,10,46,16,2.88
+202554005,Landon,Flores,9,39,16,2.44
+202554023,Livia,Henry,9,50,16,3.12
+202554026,Victor,Orellana-Gramajo,9,51,16,3.19
+202554033,Brianna,Singleton,9,10,10,1.0
+202554034,Ensineiarley,Welle,9,26,8,3.25
+202554036,Brandon,Duenas Rivera,9,25,8,3.12
+202554039,Omar,Gutierrez Medina,9,30,8,3.75
+202556002,Irene,Rivas Juarez,12,64,16,4.0
+202556003,Fredy,Batz Cruz,11,40,17,2.35
+202556006,Hally,Eastman,10,61,16,3.81
+202556007,Chance,Teel,11,41,16,2.56
+202556008,Skya,Backus,9,4,8,0.5
+202556009,Donan,Wilbert,11,26,16,1.62
+202556010,Jasmelyn,Aisek,11,7,18,0.39
+202556014,Roberto,Morales Elias,12,52,20,2.6
+202556015,Emanuel,Rodriguez Sanchez,11,45,16,2.81
+202556016,Viviana,Aliano,11,64,16,4.0
+202556019,Matthew,Rutan,12,16,4,4.0
+202556020,Bertha,Zavala Favila,12,51,15,3.4
+202556021,Armando,Zavala Favila,12,47,16,2.94
+202556024,Lucia,Esteban Sebastian,9,1,8,0.12
+202556027,Makenzie,Hirst,11,4,8,0.5
+202556031,Ziela,Diaz,12,35,14,2.5
+202556032,Austin,Clark,9,3,8,0.38
+202556033,Pablo,Vasquez Castillo,11,22,16,1.38
+202556034,Ashlynne,Lawson,10,29,16,1.81
+202556035,Demetrius,Johnson,12,45,15,3.0
+202556036,Amy,Yost,11,8,7,1.14
+202556038,Abagail,Seals,10,58,15,3.87
+202556039,Ravenn,Seals,12,32,12,2.67
+202556041,Jorge,Castillo-Magana,11,34,17,2.0
+202556042,Winter,Castro Hernandez,12,55,16,3.44
+202556043,Madyson,Stafford,11,45,14,3.21
+202556045,Kobe,Williams,9,21,8,2.62
+202556046,Wayner,Duenas Rivera,11,22,8,2.75
+202556048,Eduardo,Perez Alvarez,11,11,16,0.69
+202556049,Jimmy,Perez Lopez,12,28,8,3.5
+743811001,Mylee,Giles,12,62,15,4.13
+745601586,Rowan,Wells,12,64,16,4.0
+745602067,Serenity,Buell,12,52,16,3.25
+2017430014,Khloe,Boyle,10,67,16,4.19
+2017430016,Beatrix,Velasquez Pastor,9,57,16,3.56
+2017430018,Caleb,Matters,9,50,16,3.12
+2017430027,Diego,Rodriguez Pu,10,30,16,1.88
